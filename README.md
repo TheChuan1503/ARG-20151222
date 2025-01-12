@@ -241,6 +241,41 @@ base64 GBK 解码得
   
 - **告示牌内容为 `是你让我时间`**  
   作者想继续输入w
+  
+### 8. [视频] 2015■■■■-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBALuSbQgInMFyRY6P8Qye+y8ST8WYWXXI
+> **动态** 10011000100→1001100001■  
+> **BV**1NmcVeGEVQ  
+> **AV**113815727378339  
+> **时间** 2025-01-12 21:59  
+> **发生时间** 2015-12-19  
+> **简介**
+> ```
+> SMtDD7bRyBGgXyJay+SL1kf3uO3I7/aSDmm61daVTNdXboDd6HluMgkCAwEAAQ
+> φ
+> ```
+
+- **视频从头到尾都只有一个 `/have_fun/333`**  
+  这是一个路径，与域名拼接后得到 [`www.chipcraft.top/have_fun/333`](http://www.chipcraft.top/have_fun/333/)  
+  这是一个用Turbowarp制作的游戏
+  ![游戏画面](img/8.1.png)
+  玩家需要输入密码进入游戏，可输入`55555`  
+  由于我的浏览器迟迟加载不进游戏，所以具体怎么玩的无法展示
+
+- **视频简介**
+  简介转换为hex是ANS.1的密钥，转为base64得到
+  ```
+  MFwwDQYJKoZlhvcNAQEBBQADSwAwSAJBALuSbQgInMFyRY6P8Qye+y8ST8WYWXXlSMtDD7bRyBGgXyJay+SL1kf3uO3I7/aSDmm61daVTNdXboDd6HluMgkCAwEAAQ==
+  ```
+
+- **视频标题**
+  标题转换为hex是der格式的密钥，转为pem得到公钥
+  ```pem
+  -----BEGIN PUBLIC KEY-----
+  MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBALuSbQgInMFyRY6P8Qye+y8ST8WYWXXl
+  SMtDD7bRyBGgXyJay+SL1kf3uO3I7/aSDmm61daVTNdXboDd6HluMgkCAwEAAQ==
+  -----END PUBLIC KEY-----
+  ```
+  经检验，改公钥与前面的私钥不是一对
 
 ## 复盘
 > **文本内容来自 [(补档)bili_2015 arg解谜进度公示（1.11期） - 哔哩哔哩](https://bilibili.com/opus/1021255386614726657)**  
