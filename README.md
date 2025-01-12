@@ -45,3 +45,70 @@ base64 GBK 解码得
   `晚安，迎接你的下一个明天`  
   `晚安，迎接你的下一个昨天`
   ![视频 00:23 处画面](img/1.4.jpg)
+
+### 2. [视频] 20151■■■-Fatal■-error■.mp4
+> **动态** 10011000110→1001100010■  
+> **BV**1fvrCYAEnd  
+> **AV**113798513952833  
+> **时间** 2025-01-10 08:01
+
+**简介**
+``` java
+Exception in thread “main”
+ java.lang.Error: ServerHangWatchdog detected that a single server tick took 60.01 seconds (should be max 0.05)
+```
+- 简介是Java异常信息，表示主线程一个tick用时(60.01s)远远超过了正常时间(0.05s)
+- 视频中的Linux终端界面
+  ![视频画面](img/2.1.jpg)
+  内容为
+    ``` bash
+    [root@localhost ~]# pwd
+    /home/s■ps/antimeme/2015
+    [root@localhost ~]# cd /122■/
+    [root@localhost ~/122■]# ./■■■2■■.sh → 201■■2■■
+    Loading------------->
+    ```
+  解析:
+  1. 打印当前目录
+  2. 进入 `/122■/` 目录
+  3. 执行脚本 `■■■2■■.sh` ( `→202■■2■■` 的作用未知)
+  4. 脚本输出 `Loading------------->` 表示加载中  
+- 视频背景音为摩斯密码  
+  `.-- .-- .-- .-.-.- -.-. .... .. .--. -.-. .-. .- ..-. - .-.-.- - --- .--.`  
+  
+  解码得到 [`www.chipcraft.top`](http://www.chipcraft.top)  
+  
+  网站源码
+  ``` html
+  <!DOCTYPE html>
+  <html>
+  <head>
+  <meta charset="utf-8">
+  <title>?????</title>
+  </head>
+  <body>
+  
+  <p>0sXN/Ln9yKW1xMjLo6y74bG7uf3Ipcv50sXN/KGjw7vT0Ln9yKW1xMjLo6zSsrK71NnTtdPQvavAtA==</p>
+  <p>&nbsp;</p>
+  <p>????????</p>
+  #404error
+  </body>
+  </html>
+  ```
+  内容
+  ```
+  0sXN/Ln9yKW1xMjLo6y74bG7uf3Ipcv50sXN/KGjw7vT0Ln9yKW1xMjLo6zSsrK71NnTtdPQvavAtA==
+  
+   
+  
+  ????????
+  
+  #404error
+  ```
+  
+  base64 GBK 解码得到  
+  `遗忘过去的人，会被过去所遗忘。没有过去的人，也不再拥有将来`
+
+- 视频背景隐藏图案  
+  视频背景经过提高曝光后得到SCP反概念部图案
+  ![评论图片](img/2.2.jpg)
