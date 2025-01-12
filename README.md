@@ -30,15 +30,15 @@ base64 GBK 解码得
 > **时间** 2025-01-09 11:55  
 > **简介** `［no signal］`
 
-- 动态是二进制，转为十进制为 `1223→1222`
+- #### 动态是二进制，转为十进制为 `1223→1222`
 
-- 视频 `00:08` 处花屏文字 `时间20151222? %←`
+- #### 视频 `00:08` 处花屏文字 `时间20151222? %←`
   ![视频 00:08 处画面](img/1.1.jpg)
 
-- 视频 `00:11` 处花屏文字 `信号传输受阻`
+- #### 视频 `00:11` 处花屏文字 `信号传输受阻`
   ![视频 00:11 处画面](img/1.2.jpg)
 
-- 视频 `00:17` 处花屏文字 `进行■■协议`
+- #### 视频 `00:17` 处花屏文字 `进行■■协议`
   ![视频 00:17 处画面](img/1.3.jpg)
 
 - 视频 `00:23` 处花屏文字  
@@ -57,8 +57,9 @@ base64 GBK 解码得
 Exception in thread “main”
  java.lang.Error: ServerHangWatchdog detected that a single server tick took 60.01 seconds (should be max 0.05)
 ```
-- 简介是Java异常信息，表示主线程一个tick用时(60.01s)远远超过了正常时间(0.05s)
-- 视频中的Linux终端界面
+- #### 简介Java异常信息
+  表示主线程一个tick用时(60.01s)远远超过了正常时间(0.05s)
+- #### 视频中的Linux终端界面
   ![视频画面](img/2.1.jpg)
   内容为
     ``` bash
@@ -73,28 +74,33 @@ Exception in thread “main”
   2. 进入 `/122■/` 目录
   3. 执行脚本 `■■■2■■.sh` ( `→202■■2■■` 的作用未知)
   4. 脚本输出 `Loading------------->` 表示加载中  
-- 视频背景音为摩斯密码  
-  `.-- .-- .-- .-.-.- -.-. .... .. .--. -.-. .-. .- ..-. - .-.-.- - --- .--.`  
+- #### 视频背景音为摩斯密码  
+  `.-- .-- .-- .-.-.- -.-. .... .. .--. .-. .- ..-. - .-.-.- - --- .--.`  
+  解码得到 `www.chipraft.top`  
+
+- #### 视频背景隐藏图案  
+  视频背景经过提高曝光后得到SCP反概念部图案
+  ![评论图片](img/2.2.jpg)
+
+### 3. [视频] 2015122■-[no signal].mp4
+> **动态** 1001100101■→1001100010■■  
+> **BV**1f9cnenEaW  
+> **AV**113804285379866  
+> **时间** 2025-01-10 22:52  
+> **简介** `Dkwzobon1gsdr2Dro3Drsbn=`  
+
+- #### 简介为凯撒加密
+  解密后得到 `Tampered1with2The3Third` (`Tampered  with  The Third` 被The Third篡改)
+  ![评论图片](img/3.1.jpg)
+- #### 视频背景音为摩斯密码
+  `.. -. ... . - -.-. .. -. - .... . -- .. -.. -.. .-.. .`  
+  解码得到 `inset c in the middle`  
+  结合视频3得到的不完整域名后得到 [`www.chipcraft.top`](http://www.chipcraft.top)  
   
-  解码得到 [`www.chipcraft.top`](http://www.chipcraft.top)  
+  网站图标![www.chipcraft.top/favicon.ico](http://www.chipcraft.top/favicon.ico)  
+  转换为png得到
+  ![www.chipcraft.top_icon.jpg](img/www.chipcraft.top_icon.jpg)
   
-  网站源码
-  ``` html
-  <!DOCTYPE html>
-  <html>
-  <head>
-  <meta charset="utf-8">
-  <title>?????</title>
-  </head>
-  <body>
-  
-  <p>0sXN/Ln9yKW1xMjLo6y74bG7uf3Ipcv50sXN/KGjw7vT0Ln9yKW1xMjLo6zSsrK71NnTtdPQvavAtA==</p>
-  <p>&nbsp;</p>
-  <p>????????</p>
-  #404error
-  </body>
-  </html>
-  ```
   内容
   ```
   0sXN/Ln9yKW1xMjLo6y74bG7uf3Ipcv50sXN/KGjw7vT0Ln9yKW1xMjLo6zSsrK71NnTtdPQvavAtA==
@@ -107,8 +113,28 @@ Exception in thread “main”
   ```
   
   base64 GBK 解码得到  
-  `遗忘过去的人，会被过去所遗忘。没有过去的人，也不再拥有将来`
-
-- 视频背景隐藏图案  
-  视频背景经过提高曝光后得到SCP反概念部图案
-  ![评论图片](img/2.2.jpg)
+  `遗忘过去的人，会被过去所遗忘。没有过去的人，也不再拥有将来`  
+  
+  试图访问不存在的页面会跳转到 `http://www.chipcraft.top/404/?404,http://www.chipcraft.top/xxx`  
+  
+  页面标题为 `55555`
+  
+  内容
+  ```
+  safHuNPD1eK3vcq9tKu13dDFz6K5/cilvavAtL7gwOvMq7OkyM66zszhtb2h9qH2ofYtofah9i2h9qH2ofah9i0xtcTQxc+itry74bG7ofah9qH20KfTpqH2ofah9rDdzdDBy7+0tb3V4rbOtcTIyy2h9qH2ofah9qH2ofah9qH2ofah9qH216HIzqH2udjT2qH2ofah9i2h9qH2LaH2ofah9qH2LTG49szltcSh9qH2
+  0sXN/Ln9yKW1xMjLo6y74bG7uf3Ipcv50sXN/KGjw7vT0Ln9yKW1xMjLo6zSsrK71NnTtdPQvavAtA==
+  
+   
+  
+  NTU1NTU=
+  ```
+  
+  第一行base64 GBK解码后得到  
+    `抱歉用这方式传递信息过去将来距离太长任何提到■■■-■■-■■■■-1的信息都会被■■■效应■■■拜托了看到这段的人-■■■■■■■■■■■住任■关于■■■-■■-■■■■-1个体的■■`  
+  第二行base64 GBK解码后得到  
+    `遗忘过去的人，会被过去所遗忘。没有过去的人，也不再拥有将来`  
+  最后一行base64解码后得到 `55555`
+  
+  访问 [`http://www.chipcraft.top/55555.png`](http://www.chipcraft.top/55555.png) 后得到一张图片
+  ![http://www.chipcraft.top/55555.png](http://www.chipcraft.top/55555.png)  
+  图片中隐藏的base64解码后为 `www.chipcraft.top`，无实际作用
