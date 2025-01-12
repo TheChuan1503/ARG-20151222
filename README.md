@@ -30,18 +30,18 @@ base64 GBK 解码得
 > **时间** 2025-01-09 11:55  
 > **简介** `［no signal］`
 
-- #### 动态是二进制，转为十进制为 `1223→1222`
+- **动态是二进制，转为十进制为 `1223→1222`**  
 
-- #### 视频 `00:08` 处花屏文字 `时间20151222? %←`
+- **视频 `00:08` 处花屏文字 `时间20151222? %←`**  
   ![视频 00:08 处画面](img/1.1.jpg)
 
-- #### 视频 `00:11` 处花屏文字 `信号传输受阻`
+- **视频 `00:11` 处花屏文字 `信号传输受阻`**  
   ![视频 00:11 处画面](img/1.2.jpg)
 
-- #### 视频 `00:17` 处花屏文字 `进行■■协议`
+- **视频 `00:17` 处花屏文字 `进行■■协议`**  
   ![视频 00:17 处画面](img/1.3.jpg)
 
-- 视频 `00:23` 处花屏文字  
+- **视频 `00:23` 处花屏文字**  
   `晚安，迎接你的下一个明天`  
   `晚安，迎接你的下一个昨天`
   ![视频 00:23 处画面](img/1.4.jpg)
@@ -51,15 +51,14 @@ base64 GBK 解码得
 > **BV**1fvrCYAEnd  
 > **AV**113798513952833  
 > **时间** 2025-01-10 08:01
-
-**简介**
-``` java
-Exception in thread “main”
- java.lang.Error: ServerHangWatchdog detected that a single server tick took 60.01 seconds (should be max 0.05)
-```
-- #### 简介Java异常信息
+> **简介**  
+> ``` java
+> Exception in thread “main”
+>  java.lang.Error: ServerHangWatchdog detected that a single server tick took 60.01 seconds (should be max 0.05)
+> ```
+- **简介Java异常信息**  
   表示主线程一个tick用时(60.01s)远远超过了正常时间(0.05s)
-- #### 视频中的Linux终端界面
+- **视频中的Linux终端界面**  
   ![视频画面](img/2.1.jpg)
   内容为
     ``` bash
@@ -74,11 +73,11 @@ Exception in thread “main”
   2. 进入 `/122■/` 目录
   3. 执行脚本 `■■■2■■.sh` ( `→202■■2■■` 的作用未知)
   4. 脚本输出 `Loading------------->` 表示加载中  
-- #### 视频背景音为摩斯密码  
+- **视频背景音为摩斯密码**  
   `.-- .-- .-- .-.-.- -.-. .... .. .--. .-. .- ..-. - .-.-.- - --- .--.`  
   解码得到 `www.chipraft.top`  
 
-- #### 视频背景隐藏图案  
+- **视频背景隐藏图案**  
   视频背景经过提高曝光后得到SCP反概念部图案
   ![评论图片](img/2.2.jpg)
 
@@ -89,10 +88,10 @@ Exception in thread “main”
 > **时间** 2025-01-10 22:52  
 > **简介** `Dkwzobon1gsdr2Dro3Drsbn=`  
 
-- #### 简介为凯撒加密
+- **简介为凯撒加密**
   解密后得到 `Tampered1with2The3Third` (`Tampered  with  The Third` 被The Third篡改)
   ![评论图片](img/3.1.jpg)
-- #### 视频背景音为摩斯密码
+- **视频背景音为摩斯密码**  
   `.. -. ... . - -.-. .. -. - .... . -- .. -.. -.. .-.. .`  
   解码得到 `inset c in the middle`  
   结合视频3得到的不完整域名后得到 [`www.chipcraft.top`](http://www.chipcraft.top)  
@@ -129,12 +128,69 @@ Exception in thread “main”
   NTU1NTU=
   ```
   
-  第一行base64 GBK解码后得到  
+  - 第一行base64 GBK解码后得到  
     `抱歉用这方式传递信息过去将来距离太长任何提到■■■-■■-■■■■-1的信息都会被■■■效应■■■拜托了看到这段的人-■■■■■■■■■■■住任■关于■■■-■■-■■■■-1个体的■■`  
-  第二行base64 GBK解码后得到  
+  - 第二行base64 GBK解码后得到  
     `遗忘过去的人，会被过去所遗忘。没有过去的人，也不再拥有将来`  
-  最后一行base64解码后得到 `55555`
+  - 最后一行base64解码后得到 `55555`
   
   访问 [`http://www.chipcraft.top/55555.png`](http://www.chipcraft.top/55555.png) 后得到一张图片
   ![http://www.chipcraft.top/55555.png](http://www.chipcraft.top/55555.png)  
   图片中隐藏的base64解码后为 `www.chipcraft.top`，无实际作用
+
+### 4. [视频] 20151220_091205_100404.mp4
+> **动态** 1001100010■→10011000100  
+> **BV**1D5cWeyEet  
+> **AV**113804889360362  
+> **时间** 2025-01-11 08:54  
+> **简介**
+> ```
+> 30820155020100300d06092a864886f70d01010105000482013f3082013b020100024100a99b1c01199c5e47f82e8a6088e2bf29442fe2654f18eb166c771a9321e2964e8a2a31debf0a1577441a699cab4af6211100bc9df42ad443c3cfa45a5240e4a9020301000102410097b72855d3930cc3543e4d8a0ce8c81721e7b39cec245e26b0dfd9e5c369ed08dba3306163abe1c4f9b730c5e98bb0ec83b2b008079847168cdc3aa4681c2401022100f1c7bde5ea482dbb39b2346aaeb745963eec8a2b5128ab36bfcd3c2c03bd7937022100b394b4ca59bae501829935c4512e675a855dc0b9617850882d6df8f258da011f02202fe3c56c65e458128e920aa9dae37848133c9cfd897cc9b4f576bc6567743f2f0220679053eefa6e791134e2ec8a0a134bd17d6642f5e60b3fce38fcd9fbd157f01b022100de8c0dfb0fcad45e0d856fcbd934be4a1011bb5d2391267791627fcec28e27ef
+> ```
+
+- **简介为DER格式的RSA私钥**  
+  转为PEM格式得到
+  ``` pem
+  -----BEGIN PRIVATE KEY-----
+  MIIBVQIBADANBgkqhkiG9w0BAQEFAASCAT8wggE7AgEAAkEAqZscARmcXkf4Lopg
+  iOK/KUQv4mVPGOsWbHcakyHilk6KKjHevwoVd0QaaZyrSvYhEQC8nfQq1EPDz6Ra
+  UkDkqQIDAQABAkEAl7coVdOTDMNUPk2KDOjIFyHns5zsJF4msN/Z5cNp7QjbozBh
+  Y6vhxPm3MMXpi7Dsg7KwCAeYRxaM3DqkaBwkAQIhAPHHveXqSC27ObI0aq63RZY+
+  7IorUSirNr/NPCwDvXk3AiEAs5S0ylm65QGCmTXEUS5nWoVdwLlheFCILW348lja
+  AR8CIC/jxWxl5FgSjpIKqdrjeEgTPJz9iXzJtPV2vGVndD8vAiBnkFPu+m55ETTi
+  7IoKE0vRfWZC9eYLP844/Nn70VfwGwIhAN6MDfsPytReDYVvy9k0vkoQEbtdI5Em
+  d5Fif87Cjifv
+  -----END PRIVATE KEY-----
+  ```
+  
+- **视频背景音为摩斯密码**  
+  `.-- . .- .-. . - .... . - .... .. .-. -..`  
+  解码得到 `we are the third` (我们是The Third)
+  
+- **视频种子与视频1种子相同，但是多了告示牌**  
+  告示牌内容与视频1相同位置的弹幕相同
+  ![视频画面](img/4.1.jpg)
+
+- **视频 `00:02` 处花屏文字 `时间201512220? %←`**
+  ![视频00:02处画面](img/4.2.jpg)
+
+- **花屏后玩家发送了消息 `有人在吗？`**
+  ![视频00:02处画面2](img/4.3.jpg)
+
+- **视频 `00:03` 处花屏文字 `信号被劫持`**
+  ![视频00:03处画面](img/4.4.jpg)
+  
+- **花屏后玩家了发送消息 `him?`**
+  ![视频00:03处画面2](img/4.5.jpg)
+  
+- **视频 `00:04` 处花屏文字 `需要进行调查`**
+  ![视频00:04处画面](img/4.6.jpg)
+  
+- **视频 `00:10` 处花屏报错与前面的报错相同**
+  ![视频00:10处画面](img/4.7.jpg)
+  
+- **视频 `00:23` 处玩家在告示牌上写 `是你让我...`**  
+  随后删除了bian的n，视频变为`[无信号]`
+  ![视频00:23处画面](img/4.8.jpg)
+- **视频 `00:25` 处无信号界面有短暂轻微的红色闪动**
+  ![视频00:25处画面](img/4.9.jpg)
