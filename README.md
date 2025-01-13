@@ -256,10 +256,19 @@ base64 GBK 解码得
 
 - **视频从头到尾都只有一个 `/have_fun/333`**  
   这是一个路径，与域名拼接后得到 [`www.chipcraft.top/have_fun/333`](http://www.chipcraft.top/have_fun/333/)  
+  [点我进入镜像站](https://chipcraft.thi.us.kg/have_fun/333/)  
   这是一个用Turbowarp制作的游戏
   ![游戏画面](img/8.1.png)
-  玩家需要输入密码进入游戏，可输入`55555`  
-  由于我的浏览器迟迟加载不进游戏，所以具体怎么玩的无法展示
+  玩家需要WASD控制剩余触碰数字输入密码进入游戏  
+  移动到已输入的数字区域可删除  
+  - 输入 `55555` 眼睛充满屏幕
+    ![游戏画面动图](img/8.2.gif)
+  
+- **have fun背景噪声下的摩斯密码**  
+  经解密后得到
+  ```
+  53A0F277E96341254ACCABD2350983DCA1FAE94F647EA30A04C8B2C3AE30B309E0C8E9EBEFDC962B257E3E14B32CD7537214482AF9480D57E3A8513EA23E1BE3
+  ```
 
 - **视频简介**
   简介转换为hex是ANS.1的密钥，转为base64得到
@@ -275,7 +284,35 @@ base64 GBK 解码得
   SMtDD7bRyBGgXyJay+SL1kf3uO3I7/aSDmm61daVTNdXboDd6HluMgkCAwEAAQ==
   -----END PUBLIC KEY-----
   ```
-  经检验，改公钥与前面的私钥不是一对
+  经检验，该公钥与前面的私钥不是一对
+  
+### 9. [动态] _无标题_
+> **时间** 2025-01-13 00:39  
+> **内容**  
+> ```
+> “Zji Xmwzj”
+> Jgwgwwxzksr: Gv xlng booi, ak cvi zbiccvi uh erd wvlqvqgvmss ojuwx “Xng Xlnfl”, uvlix vles wby peqk, kgss, ovj gbmyvirhs qt ■■■, ylmij ges hisriv ckxl Kcctfexoqr wnuvgnw. Xng svlovobexoqr'w uizvqwi gph qthqbcxmup evj ivqpsat.
+> Zji Jtivjcxmup mw hizxgrxra mrasazkkezkrk yvm xgpezksrxvqv dixcgir f “Hpk Vlmxf” eri "■■■■".
+> Yrignot Iqrxgkrqjbb Vtsgkfyvjg: Vupi
+> ```
+> ![图片](img/9.1.jpg)
+
+- **内容是维吉尼亚密文**  
+  经过密钥 `gceefoi` 解密后得到
+  ```
+  “The Third”
+  Description: At this time, we are unaware of any information about “The Third”, other than its name, icon, and existence in ■■■, which can tamper with Foundation signals. The organization's purpose and motivation are unknown.
+  The Foundation is currently investigating the relationship between a “The Third” and "■■■■".
+  Special Containment Procedures: None
+  
+  “The Third”
+  描述：目前，我们除了知道“The Third”的名称、图标以及其在■■■的存在，以及它能够干扰基金会信号之外，对其一无所知。该组织的目的和动机未知
+  基金会目前正在调查“The Third”与“■■■■”之间的关系
+  特殊收容措施：无
+  ```
+  
+- **图片提高曝光后有中间文字 `[无信号]`**
+  ![提高曝光后的图片](img/9.2.jpg)
 
 ## 复盘
 > **文本内容来自 [(补档)bili_2015 arg解谜进度公示（1.11期） - 哔哩哔哩](https://bilibili.com/opus/1021255386614726657)**  
