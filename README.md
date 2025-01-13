@@ -1,12 +1,18 @@
 # ARG-20151222
 
-### 更新时间 `2025-01-13 13:12`
+### 更新时间 `2025-01-13 15:31`
 
 ## 目录
 - [**放在前面**](#放在前面)
   - [关于此ARG](#关于此arg)
   - [什么是ARG?](#什么是arg)
   - [关于此文档](#关于此文档)
+  - [加密解密常用工具](#加密解密常用工具)
+- [**线索**](#线索)
+  - [网址](#网址)
+  - [私钥](#私钥)
+  - [公钥](#公钥)
+  - [邮箱](#邮箱)
 - [**解析**](#解析)
   - [时间线](#时间线)
   - [作者主页介绍](#作者主页介绍)
@@ -20,6 +26,8 @@
   - [8. [视频] 2015■■■■-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBALuSbQgInMFyRY6P8Qye+y8ST8WYWXXI](#8-视频-2015-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBALuSbQgInMFyRY6P8Qye+y8ST8WYWXXI)
   - [9. [动态] _无标题_](#9-动态-无标题)
   - [10. [动态] _无标题_](#10-动态-无标题)
+- [**事件**](#事件)
+  - [2025-01-13 下午](#2025-01-13-下午)
 - [**复盘**](#复盘)
 
 ## 放在前面
@@ -30,8 +38,49 @@
 ### 什么是ARG?
 - ARG是一种跨媒体、即时、不可逆的游戏，通常为解密类游戏
 ### 关于此文档
-- 部分素材来源于 bili_20151222 的QQ讨论群和 [(补档)bili_2015 arg解谜进度公示（1.11期） - 哔哩哔哩](https://m.bilibili.com/opus/1021255386614726657)
+- 部分素材来源于QQ群  [(补档)bili_2015 arg解谜进度公示（1.11期） - 哔哩哔哩](https://m.bilibili.com/opus/1021255386614726657)  和  [bili_20151222 ARG进度文档](https://docs.qq.com/doc/DWHBHb0VVUGxqa0Nh)
 - 解读内容由群友和bilibili网友共同得出
+### 加密解密常用工具
+- [RSA 加密/解密 - 锤子在线工具](https://www.toolhelper.cn/AsymmetricEncryption/RSA)
+- [Base64 编码/解码 - 锤子在线工具](https://www.toolhelper.cn/EncodeDecode/Base64)
+- [维吉尼亚密码在线加密解密 - 千千秀字](https://www.qqxiuzi.cn/bianma/weijiniyamima.php)
+- [在线凯撒密码加密解密](https://www.lddgo.net/encrypt/caesar-cipher)
+- [在线摩斯密码翻译器](https://www.lddgo.net/encrypt/morse)
+
+## 线索
+### 网址
+_所有 `www.chipcraft.top` 进不去可替换为 `chipcraft.thi.us.kg` 镜像站_
+- [`www.chipcraft.top`](http://www.chipcraft.top/)  
+  网站主页
+- [`www.chipcraft.top/404`](http://www.chipcraft.top/404)  
+  404页面
+- [`www.chipcraft.top/55555.png`](http://www.chipcraft.top/55555.png)  
+  聊天记录图片
+- [`www.chipcraft.top/have_fun/333`](http://www.chipcraft.top/have_fun/333)  
+  333游戏
+
+### 私钥
+``` pem
+-----BEGIN PRIVATE KEY----- MIIBVQIBADANBgkqhkiG9w0BAQEFAASCAT8wggE7AgEAAkEAqZscARmcXkf4Lopg
+iOK/KUQv4mVPGOsWbHcakyHilk6KKjHevwoVd0QaaZyrSvYhEQC8nfQq1EPDz6Ra UkDkqQIDAQABAkEAl7coVdOTDMNUPk2KDOjIFyHns5zsJF4msN/Z5cNp7QjbozBh
+Y6vhxPm3MMXpi7Dsg7KwCAeYRxaM3DqkaBwkAQIhAPHHveXqSC27ObI0aq63RZY+
+7IorUSirNr/NPCwDvXk3AiEAs5S0ylm65QGCmTXEUS5nWoVdwLlheFCILW348lja
+AR8CIC/jxWxl5FgSjpIKqdrjeEgTPJz9iXzJtPV2vGVndD8vAiBnkFPu+m55ETTi
+7IoKE0vRfWZC9eYLP844/Nn70VfwGwIhAN6MDfsPytReDYVvy9k0vkoQEbtdI5Em
+d5Fif87Cjifv
+-----END PRIVATE KEY-----
+```
+
+### 公钥
+``` pem
+-----BEGIN PUBLIC KEY----- MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBALuSbQgInMFyRY6P8Qye+y8ST8WYWXXI
+SMtDD7bRyBGgXyJay+SL1kf3uO3I7/aSDmm61daVTNdXboDd6HluMgkCAwEAAQ==
+-----END PUBLIC KEY-----
+```
+
+### 邮箱
+- `gceefoimc@gmail.com`  
+  需要发送经过公钥加密的信息，回复需要通过私钥解密
 
 ## 解析
 ### 时间线
@@ -297,13 +346,7 @@ base64 GBK 解码得
   53A0F277E96341254ACCABD2350983DCA1FAE94F647EA30A04C8B2C3AE30B309E0C8E9EBEFDC962B257E3E14B32CD7537214482AF9480D57E3A8513EA23E1BE3
   ```
 
-- **视频简介**  
-  简介转换为hex是ANS.1的密钥，转为base64得到
-  ```
-  MFwwDQYJKoZlhvcNAQEBBQADSwAwSAJBALuSbQgInMFyRY6P8Qye+y8ST8WYWXXlSMtDD7bRyBGgXyJay+SL1kf3uO3I7/aSDmm61daVTNdXboDd6HluMgkCAwEAAQ==
-  ```
-
-- **视频标题**  
+- **视频标题(或视频简介?)**  
   标题转换为hex是der格式的密钥，转为pem得到公钥
   ```pem
   -----BEGIN PUBLIC KEY-----
@@ -311,7 +354,7 @@ base64 GBK 解码得
   SMtDD7bRyBGgXyJay+SL1kf3uO3I7/aSDmm61daVTNdXboDd6HluMgkCAwEAAQ==
   -----END PUBLIC KEY-----
   ```
-  经检验，该公钥与前面的私钥不是一对
+  经检验，该公钥与前面的私钥是一对
   
 ### 9. [动态] _无标题_
 > **时间** 2025-01-13 00:39  
@@ -355,7 +398,17 @@ base64 GBK 解码得
   保证信息完整
   gceefoimc@g
   ```
-  `gceefoimc@g` 似乎是维吉尼亚编码的密钥
+  `gceefoi` 是维吉尼亚编码的密钥(先前已被sans推断出来)，完整的是一个邮箱地址 `gceefoimc@gmail.com`
+  
+## 事件
+### 2025-01-13 下午
+群u向 `gceefoimc@gmail.com` 发送 `我希望获取更多关于the third的消息` 的密文(使用先前的公钥加密)  
+16:46得到回复，经rsa解密(使用私钥)后得到  
+```
+一个异常
+我们的敌人
+他们是过去的记忆
+```
 
 ## 复盘
 > **文本内容来自 [(补档)bili_2015 arg解谜进度公示（1.11期） - 哔哩哔哩](https://bilibili.com/opus/1021255386614726657)**  
