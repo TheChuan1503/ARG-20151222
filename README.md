@@ -1,5 +1,26 @@
 # ARG-20151222
 
+### 更新时间 `2025-01-13 13:12`
+
+## 目录
+- [**放在前面**](#放在前面)
+  - [关于此ARG](#关于此arg)
+  - [什么是ARG?](#什么是arg)
+  - [关于此文档](#关于此文档)
+- [**解析**](#解析)
+  - [时间线](#时间线)
+  - [作者主页介绍](#作者主页介绍)
+  - [1. [视频] 20151222_060439_071658.mp4](#1-视频-20151222_060439_071658mp4)
+  - [2. [视频] 20151■■■-Fatal■-error■.mp4](#2-视频-20151-Fatal-errormp4)
+  - [3. [视频] 2015122■-[no signal].mp4](#3-视频-2015122-no signalmp4)
+  - [4. [视频] 20151220_091205_100404.mp4](#4-视频-20151220_091205_100404mp4)
+  - [5. [动态] 1](#5-动态-1)
+  - [6. [动态] 1000](#6-动态-1000)
+  - [7. [动态] _无标题_](#7-动态-无标题)
+  - [8. [视频] 2015■■■■-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBALuSbQgInMFyRY6P8Qye+y8ST8WYWXXI](#8-视频-2015-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBALuSbQgInMFyRY6P8Qye+y8ST8WYWXXI)
+  - [9. [动态] _无标题_](#9-动态-无标题)
+- [**复盘**](#复盘)
+
 ## 放在前面
 ### 关于此ARG
 - 此ARG围绕bilibili@**bili_20151222** (UID: 3546831258651103)展开
@@ -263,6 +284,11 @@ base64 GBK 解码得
   移动到已输入的数字区域可删除  
   - 输入 `55555` 眼睛充满屏幕
     ![游戏画面动图](img/8.2.gif)
+    
+  - 输入phi符号在小键盘上的顺序，触碰o，再输入123，触碰o，在眼睛下面按 `空格`
+    ![游戏画面动图](img/8.3.gif)
+    - Y
+      ![游戏画面动图](img/8.4.gif)
   
 - **have fun背景噪声下的摩斯密码**  
   经解密后得到
@@ -270,13 +296,13 @@ base64 GBK 解码得
   53A0F277E96341254ACCABD2350983DCA1FAE94F647EA30A04C8B2C3AE30B309E0C8E9EBEFDC962B257E3E14B32CD7537214482AF9480D57E3A8513EA23E1BE3
   ```
 
-- **视频简介**
+- **视频简介**  
   简介转换为hex是ANS.1的密钥，转为base64得到
   ```
   MFwwDQYJKoZlhvcNAQEBBQADSwAwSAJBALuSbQgInMFyRY6P8Qye+y8ST8WYWXXlSMtDD7bRyBGgXyJay+SL1kf3uO3I7/aSDmm61daVTNdXboDd6HluMgkCAwEAAQ==
   ```
 
-- **视频标题**
+- **视频标题**  
   标题转换为hex是der格式的密钥，转为pem得到公钥
   ```pem
   -----BEGIN PUBLIC KEY-----
