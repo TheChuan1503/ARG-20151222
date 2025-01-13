@@ -1,6 +1,6 @@
 # ARG-20151222
 
-### 更新时间 `2025-01-13 21:18`
+### 更新时间 `2025-01-13 21:26`
 
 ## 须知
 ### 最新消息请看 [事件](#事件)
@@ -65,7 +65,8 @@ _所有 `www.chipcraft.top` 进不去可替换为 `chipcraft.thi.us.kg` 镜像�
 
 ### 私钥
 ``` pem
------BEGIN PRIVATE KEY----- MIIBVQIBADANBgkqhkiG9w0BAQEFAASCAT8wggE7AgEAAkEAqZscARmcXkf4Lopg
+-----BEGIN PRIVATE KEY-----
+MIIBVQIBADANBgkqhkiG9w0BAQEFAASCAT8wggE7AgEAAkEAqZscARmcXkf4Lopg
 iOK/KUQv4mVPGOsWbHcakyHilk6KKjHevwoVd0QaaZyrSvYhEQC8nfQq1EPDz6Ra UkDkqQIDAQABAkEAl7coVdOTDMNUPk2KDOjIFyHns5zsJF4msN/Z5cNp7QjbozBh
 Y6vhxPm3MMXpi7Dsg7KwCAeYRxaM3DqkaBwkAQIhAPHHveXqSC27ObI0aq63RZY+
 7IorUSirNr/NPCwDvXk3AiEAs5S0ylm65QGCmTXEUS5nWoVdwLlheFCILW348lja
@@ -77,7 +78,8 @@ d5Fif87Cjifv
 
 ### 公钥
 ``` pem
------BEGIN PUBLIC KEY----- MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBALuSbQgInMFyRY6P8Qye+y8ST8WYWXXI
+-----BEGIN PUBLIC KEY-----
+MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBALuSbQgInMFyRY6P8Qye+y8ST8WYWXXI
 SMtDD7bRyBGgXyJay+SL1kf3uO3I7/aSDmm61daVTNdXboDd6HluMgkCAwEAAQ==
 -----END PUBLIC KEY-----
 ```
@@ -415,6 +417,15 @@ base64 GBK 解码得
   `gceefoi` 是维吉尼亚编码的密钥(先前已被sans推断出来)，完整的是一个邮箱地址 `gceefoimc@gmail.com`
   
 ## 事件
+### 2025-01-13 21:18
+向 `gceefoimc@gmail.com` 发送提问，得到回复(问题与回答对应)
+```
+我要做什么——记住他的任何信息
+你的位置/时间——叙事层与任何时间
+逆模因女孩——歌词
+干扰手段——无关
+```
+
 ### 2025-01-13 20:57
 群u发现方块摆放的位置与have_fun333的位置相似，且方块都有黄颜色元素  
 ![截图](img/misc/1.jpg)
