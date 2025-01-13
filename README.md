@@ -1,6 +1,6 @@
 # ARG-20151222
 
-### 更新时间 `2025-01-13 20:44`
+### 更新时间 `2025-01-13 20:56`
 
 ## 目录
 - [**放在前面**](#放在前面)
@@ -85,13 +85,17 @@ SMtDD7bRyBGgXyJay+SL1kf3uO3I7/aSDmm61daVTNdXboDd6HluMgkCAwEAAQ==
 ## 解析
 ### 时间线
 - **2015-12-25 或 2015-12-26**  
-  2015122■-[no signal].mp4  
+  第三期 2015122■-[no signal].mp4  
 - **2015-12-22**  
-  20151222_060439_071658.mp4  
+  第一期 20151222_060439_071658.mp4  
 - **2015-12-21**  
-  20151■■■-Fatal■-error■.mp4  
+  第二期 20151■■■-Fatal■-error■.mp4  
 - **2015-12-20**  
-  20151220_091205_100404.mp4
+  第四期 20151220_091205_100404.mp4
+- **2015-12-19**  
+  第五期 2015■■■■-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBALuSbQgInMFyRY6P8Qye+y8ST8WYWXXI  
+  
+**注: 不排除有干扰或者篡改**  
 
 ### 作者主页介绍
 作者主页介绍原文  
@@ -352,8 +356,8 @@ base64 GBK 解码得
   ```
   经过RSA私钥解密后得到 `c4`
 
-- **视频标题(或视频简介?)**  
-  标题转换为hex是der格式的密钥，转为pem得到公钥
+- **视频标题＋视频简介**  
+  标题和简介分别为公钥的一部分，组合后得到
   ```pem
   -----BEGIN PUBLIC KEY-----
   MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBALuSbQgInMFyRY6P8Qye+y8ST8WYWXXl
