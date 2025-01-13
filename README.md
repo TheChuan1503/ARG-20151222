@@ -1,6 +1,6 @@
 # ARG-20151222
 
-### 更新时间 `2025-01-13 17:02`
+### 更新时间 `2025-01-13 18:56`
 
 ## 目录
 - [**放在前面**](#放在前面)
@@ -8,7 +8,7 @@
   - [什么是ARG?](#什么是arg)
   - [关于此文档](#关于此文档)
   - [加密解密常用工具](#加密解密常用工具)
-- [**线索**](#线索)
+- [**已知信息**](#已知信息)
   - [网址](#网址)
   - [私钥](#私钥)
   - [公钥](#公钥)
@@ -23,7 +23,7 @@
   - [5. [动态] 1](#5-动态-1)
   - [6. [动态] 1000](#6-动态-1000)
   - [7. [动态] _无标题_](#7-动态-无标题)
-  - [8. [视频] 2015■■■■-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBALuSbQgInMFyRY6P8Qye+y8ST8WYWXXI](#8-视频-2015-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBALuSbQgInMFyRY6P8Qye+y8ST8WYWXXI)
+  - [8. [视频] 2015■■■■-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBALuSbQgInMFyRY6P8Qye+y8ST8WYWXXI](#8-视频-2015-mfwwdqyjkozihvcnaqebbqadswawsajbalusbqginmfyry6p8qyey8st8wywxxi)
   - [9. [动态] _无标题_](#9-动态-无标题)
   - [10. [动态] _无标题_](#10-动态-无标题)
 - [**事件**](#事件)
@@ -47,7 +47,7 @@
 - [在线凯撒密码加密解密](https://www.lddgo.net/encrypt/caesar-cipher)
 - [在线摩斯密码翻译器](https://www.lddgo.net/encrypt/morse)
 
-## 线索
+## 已知信息
 ### 网址
 _所有 `www.chipcraft.top` 进不去可替换为 `chipcraft.thi.us.kg` 镜像站_
 - [`www.chipcraft.top`](http://www.chipcraft.top/)  
@@ -328,16 +328,16 @@ base64 GBK 解码得
 - **视频从头到尾都只有一个 `/have_fun/333`**  
   这是一个路径，与域名拼接后得到 [`www.chipcraft.top/have_fun/333`](http://www.chipcraft.top/have_fun/333/)  
   [点我进入镜像站](https://chipcraft.thi.us.kg/have_fun/333/)  
-  这是一个用Turbowarp制作的游戏
+  这是一个用Turbowarp制作的游戏  
   ![游戏画面](img/8.1.png)
-  玩家需要WASD控制剩余触碰数字输入密码进入游戏  
+  玩家需要WASD控制人物触碰数字输入密码进入游戏  
   移动到已输入的数字区域可删除  
-  - 输入 `55555` 眼睛充满屏幕
+  - 输入 `55555` 眼睛充满屏幕  
     ![游戏画面动图](img/8.2.gif)
     
-  - 输入phi符号在小键盘上的顺序，触碰o，再输入123，触碰o，在眼睛下面按 `空格`
+  - 输入phi符号在小键盘上的顺序，触碰o，再输入123，触碰o，在眼睛下面按 `空格`  
     ![游戏画面动图](img/8.3.gif)
-    - Y
+    - Y  
       ![游戏画面动图](img/8.4.gif)
   
 - **have fun背景噪声下的摩斯密码**  
