@@ -352,6 +352,10 @@ base64 GBK 解码得
 - **视频从头到尾都只有一个 `/have_fun/333`**  
   这是一个路径，与域名拼接后得到 [`www.chipcraft.top/have_fun/333`](http://www.chipcraft.top/have_fun/333/)  
   [点我进入镜像站](https://chipcraft.thi.us.kg/have_fun/333/)  
+  
+  **注意: 该网站页面内容已变为 `1eLA78O709DN+NKzo6Gyu9Kqs6LK1L34wLTBy6Oh` 解码得到 `这里没有网页！不要尝试进来了！`**  
+  **镜像站还保留了游戏**
+  
   这是一个用Turbowarp制作的游戏  
   ![游戏画面](img/8.1.png)
   玩家需要WASD控制人物触碰数字输入密码进入游戏  
@@ -430,6 +434,9 @@ base64 GBK 解码得
   `gceefoi` 是维吉尼亚编码的密钥(先前已被sans推断出来)，完整的是一个邮箱地址 `gceefoimc@gmail.com`
   
 ## 事件
+### 2025-01-14 10:15
+群u发现 `www.chipcraft.top/have_fun/333` 内容变为了 `1eLA78O709DN+NKzo6Gyu9Kqs6LK1L34wLTBy6Oh` base64 GBK 得到 `这里没有网页！不要尝试进来了！`
+
 ### 2025-01-13 21:18
 向 `gceefoimc@gmail.com` 发送提问，得到回复(问题与回答对应)
 ```
