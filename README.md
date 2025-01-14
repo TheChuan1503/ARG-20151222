@@ -1,6 +1,6 @@
 # ARG-20151222
 
-### 更新时间 `2025-01-14 13:19`
+### 更新时间 `2025-01-14 17:43`
 
 ## 须知
 ### 最新消息请看 [事件](#事件)
@@ -66,6 +66,7 @@
 - 不是时间循环
 - 与原SCP组织无关
 - 与SCP-MC部分有关
+- 邮箱主人是SCP-MC
 
 ### 网址
 _所有 `www.chipcraft.top` 进不去可替换为 `chipcraft.thi.us.kg` 镜像站_
@@ -77,7 +78,7 @@ _所有 `www.chipcraft.top` 进不去可替换为 `chipcraft.thi.us.kg` 镜像�
 - [`www.chipcraft.top/55555.png`](http://www.chipcraft.top/55555.png)  
   聊天记录图片
 - [`www.chipcraft.top/have_fun/333`](http://www.chipcraft.top/have_fun/333)  
-  333游戏  
+  have_fun333游戏  
   详情: [8. [视频] 2015■■■■-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBALuSbQgInMFyRY6P8Qye+y8ST8WYWXXI](#8-视频-2015-mfwwdqyjkozihvcnaqebbqadswawsajbalusbqginmfyry6p8qyey8st8wywxxi)
 
 ### 私钥
@@ -443,6 +444,10 @@ base64 GBK 解码得
 ### 2025-01-14 10:15
 群u发现 `www.chipcraft.top/have_fun/333` 内容变为了 `1eLA78O709DN+NKzo6Gyu9Kqs6LK1L34wLTBy6Oh` base64 GBK 得到 `这里没有网页！不要尝试进来了！`  
 `www.chipcraft.top` 的第一行变成了 `srvSqrzH16HL+7XE0MXPoqOs0MXPotPQuqajoaOho6E=` 解码得到 `不要记住他的信息，信息有害！！！`
+
+### 2025-01-14 03:55
+群u发现SCP-MC部分内容与视频内容似乎对应  
+![聊天记录](img/misc/2.jpg)
 
 ### 2025-01-13 21:18
 向 `gceefoimc@gmail.com` 发送提问，得到回复(问题与回答对应)
