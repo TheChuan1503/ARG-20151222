@@ -1,6 +1,6 @@
 # ARG-20151222
 
-### 更新时间 `2025-01-14 11:47`
+### 更新时间 `2025-01-14 13:12`
 
 ## 须知
 ### 最新消息请看 [事件](#事件)
@@ -206,6 +206,7 @@ base64 GBK 解码得
   `.. -. ... . - -.-. .. -. - .... . -- .. -.. -.. .-.. .`  
   解码得到 `inset c in the middle`  
   结合视频2得到的不完整域名后得到 [`www.chipcraft.top`](http://www.chipcraft.top)  
+  **注意: 网站内容已变更，最新内容看 [事件/2025-01-14 10:15](#2025-01-14-1015)**
   
   网站图标![www.chipcraft.top/favicon.ico](http://www.chipcraft.top/favicon.ico)  
   转换为png得到
@@ -437,7 +438,8 @@ base64 GBK 解码得
   
 ## 事件
 ### 2025-01-14 10:15
-群u发现 `www.chipcraft.top/have_fun/333` 内容变为了 `1eLA78O709DN+NKzo6Gyu9Kqs6LK1L34wLTBy6Oh` base64 GBK 得到 `这里没有网页！不要尝试进来了！`
+群u发现 `www.chipcraft.top/have_fun/333` 内容变为了 `1eLA78O709DN+NKzo6Gyu9Kqs6LK1L34wLTBy6Oh` base64 GBK 得到 `这里没有网页！不要尝试进来了！`  
+`www.chipcraft.top` 的第一行变成了 `srvSqrzH16HL+7XE0MXPoqOs0MXPotPQuqajoaOho6E=` 解码得到 `不要记住他的信息，信息有害！！！`
 
 ### 2025-01-13 21:18
 向 `gceefoimc@gmail.com` 发送提问，得到回复(问题与回答对应)
