@@ -1,6 +1,6 @@
 # ARG-20151222
 
-### 更新时间 `2025-01-15 13:39`
+### 更新时间 `2025-01-15 14:14`
 
 ## 须知
 ### 最新消息请看 [事件](#事件)
@@ -456,6 +456,16 @@ base64 GBK 解码得
   ```
   
 ## 事件
+### 2025-01-15 14:09
+邮箱得到回复  
+```
+0uyzo8O709DW1da5o6zS7LOjsru74dbV1rk？？？？？？？？？？？？？
+```
+仅 base64 GBK 解码得到
+```
+异常没有终止，异常不会终止
+```
+
 ### 2025-01-14 10:15
 群u发现 `www.chipcraft.top/have_fun/333` 内容变为了 `1eLA78O709DN+NKzo6Gyu9Kqs6LK1L34wLTBy6Oh` base64 GBK 得到 `这里没有网页！不要尝试进来了！`  
 `www.chipcraft.top` 的第一行变成了 `srvSqrzH16HL+7XE0MXPoqOs0MXPotPQuqajoaOho6E=` 解码得到 `不要记住他的信息，信息有害！！！`
