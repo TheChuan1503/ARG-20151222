@@ -1,11 +1,15 @@
 # ARG-20151222
 
-### 更新时间 `2025-01-16 11:20`
+### 更新时间 `2025-01-16 13:30`
 
 ## 须知
 ### 最新消息请看 [事件](#事件)
 ### 每条视频/动态的分析请看 [解析](#解析)
-### 网站内容请看 [3. [视频] 2015122■-[no signal].mp4](#3-视频-2015122-no-signalmp4) 和 [8. [视频] 2015■■■■-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBALuSbQgInMFyRY6P8Qye+y8ST8WYWXXI](#8-视频-2015-mfwwdqyjkozihvcnaqebbqadswawsajbalusbqginmfyry6p8qyey8st8wywxxi)
+### 网站内容请看
+- [3. [视频] 2015122■-[no signal].mp4](#3-视频-2015122-no-signalmp4)
+- [8. [视频] 2015■■■■-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBALuSbQgInMFyRY6P8Qye+y8ST8WYWXXI](#8-视频-2015-mfwwdqyjkozihvcnaqebbqadswawsajbalusbqginmfyry6p8qyey8st8wywxxi)
+### 游戏存档请看
+- [12. [视频] 20151218-18-18](#12-%E8%A7%86%E9%A2%91-20151218-18-18)
 
 ## 目录
 - [**放在前面**](#放在前面)
@@ -110,7 +114,7 @@ SMtDD7bRyBGgXyJay+SL1kf3uO3I7/aSDmm61daVTNdXboDd6HluMgkCAwEAAQ==
   需要发送经过公钥加密的信息，回复需要通过私钥解密
 
 ## 解析
-### 时间线
+### -1. 时间线
 - **2015-12-25 或 2015-12-26**  
   第三期 2015122■-[no signal].mp4  
 - **2015-12-22**  
@@ -121,10 +125,12 @@ SMtDD7bRyBGgXyJay+SL1kf3uO3I7/aSDmm61daVTNdXboDd6HluMgkCAwEAAQ==
   第四期 20151220_091205_100404.mp4
 - **2015-12-19**  
   第五期 2015■■■■-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBALuSbQgInMFyRY6P8Qye+y8ST8WYWXXI  
+- **2015-12-18**  
+  第六期  20151218-18-18
   
 **注: 不排除有干扰或者篡改**  
 
-### 作者主页介绍
+### 0. 作者主页介绍
 作者主页介绍原文  
 `utrUwsrHt/G6v73Qo78=`  
 
@@ -466,10 +472,35 @@ base64 GBK 解码得
 > ```
 > R43vxZaTUOzDRpzkFwgFseWFKPsaQ0GnVwNCcSVx8aOp77XOcA7yR2NPG9iktxIh4GJQ5h7UjX4BRvbYJOpeCw
 > ```
+‘ 时间20151218181818...  
+![视频画面](img/12.2.jpg)  
+“ 我的聊天框消失了...  
+游戏内告示牌为往期视频弹幕  
+![视频画面](img/12.3.jpg)  
+“ 一开始，我的时间在往回流逝  
+![视频画面](img/12.4.jpg)  
+“ 但现在它停下来了，就像它倒退一样不明所以  
+![视频画面](img/12.5.jpg)  
+“ 水好冷  
+![视频画面](img/12.6.jpg)  
+“ 谁来救救我...大家都不认识我了  
+![视频画面](img/12.7.jpg)  
+“ 每天晚上都会来到这鬼地方...  
+![视频画面](img/12.8.jpg)  
+“ 好想回家 (花屏)  
+![视频画面](img/12.9.jpg)  
+‘ _晚安，迎接你的今天_  
+![视频画面](img/12.10.jpg)  
+视频结束，推测主角是被困在游戏里了(或者说游戏里睡觉现实里起来?)
 
 - **简介是RSA密文**  
   解密得到 [`wwbx.lanzoul.com/irLCH2l1oush`](https://wwbx.lanzoul.com/irLCH2l1oush)  
-  文件是一个mc存档
+- **文件是一个mc存档**
+  > **存档名** 我的世界  
+  > **时间** 2015-12-25  
+  > **版本** 0.14或0.13(未经证实)  
+  
+  待补充...
   
 ## 事件
 ### 2025-01-15 14:09
