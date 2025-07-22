@@ -15,14 +15,14 @@
     - [什么是ARG?](#什么是arg)
     - [加密解密常用工具](#加密解密常用工具)
   - [解析](#解析)
-    - [0. 账号信息](#0-账号信息)
+    - [账号信息](#账号信息)
     - [1. \[视频\] Coming soon](#1-视频-coming-soon)
     - [2. \[动态\] Post a barrage to proceed to the next step](#2-动态-post-a-barrage-to-proceed-to-the-next-step)
     - [3. \[视频\] record20190722\_085432\_224655](#3-视频-record20190722_085432_224655)
       - [视频外信息](#视频外信息)
       - [视频内信息](#视频内信息)
     - [4. \[动态\] Interference release](#4-动态-interference-release)
-    - [\[邮件\] 2025-07-23 00:20](#-邮件-2025-07-23-00-20)
+    - [\[邮件\] 2025-07-23 00:20](#邮件-2025-07-23-00-20)
 
 ## 放在前面
 ### 关于此ARG
@@ -39,7 +39,7 @@
 - [在线摩斯密码翻译器](https://www.lddgo.net/encrypt/morse)
 
 ## 解析
-### 0. 账号信息
+### 账号信息
 - **旧**昵称 `aW50ZXJtZWRpYX` 经过 Base64 解码后得到 `intermediap`, 作用未知
 - **现**昵称 `messager_mc`
 
