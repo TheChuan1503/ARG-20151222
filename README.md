@@ -1,6 +1,6 @@
 # ARG-20151222
 
-**更新时间 `2025-07-22 18:00`**
+**更新时间 `2025-07-22 18:28`**
 
 ## 须知
 - 这里是新的文档，旧的文档请见 [README.old.md](README.old.md)
@@ -67,6 +67,5 @@
   ![](img/2/v3.1.png)  
   结尾隐写 [`www.gonethings.cloud`](https://www.gonethings.cloud)，这是一个网址  
   ![](img/2/v3.3.png)  
-  网页快照  
+  网页包含很多新闻，页脚为盲文 `from another world`  
   ![](img/2/v3.4.png)  
-  网页包含很多新闻，页脚为盲文 `from another world`
