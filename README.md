@@ -1,6 +1,6 @@
 # ARG-20151222
 
-**更新时间 `2025-07-22 20:32`**
+**更新时间 `2025-07-22 21:47`**
 
 ## 须知
 - 这里是新的文档，旧的文档请见 [README.old.md](README.old.md)
@@ -19,6 +19,8 @@
     - [1. \[视频\] Coming soon](#1-视频-coming-soon)
     - [2. \[动态\] Post a barrage to proceed to the next step](#2-动态-post-a-barrage-to-proceed-to-the-next-step)
     - [3. \[视频\] record20190722\_085432\_224655](#3-视频-record20190722_085432_224655)
+      - [视频外信息](#视频外信息)
+      - [视频内信息](#视频内信息)
 
 ## 放在前面
 ### 关于此ARG
@@ -63,6 +65,8 @@
 > **简介** -
 
 - 视频长达9分17秒
+
+#### 视频外信息
 - 视频背景音频为低频噪音＋频谱图隐写
   ![](img/2/v3.2.png)  
   开头隐写 `are you all right?`  
@@ -70,7 +74,7 @@
   结尾隐写 [`www.gonethings.cloud`](https://www.gonethings.cloud)，这是一个网址  
   ![](img/2/v3.3.png)  
 - 网站标题为 `osrcvbxscxiz` (暂无意义)  
-  网页包含很多新闻，页脚为盲文 `from another world`，点击后跳转至 [www.gonethings.cloud/password](https://www.gonethings.cloud/password) (404)  
+- 网页包含很多新闻，页脚为盲文 `from another world`，点击后跳转至 [www.gonethings.cloud/password](https://www.gonethings.cloud/password) (404)  
   ![](img/2/v3.4.png)  
   ![](img/2/v3.5.png)  
   网站有篇文章叫 `这里是你想来的地方吗？`，点击后跳转到 [https://www.gonethings.cloud/archives/1](https://www.gonethings.cloud/archives/1)，该页面有一张地铁站的图片  
@@ -134,8 +138,11 @@
   结果: 失败
   干扰来源: 显而易见
   ```
-  ![](img/2/v3.8.png)
+  ![](img/2/v3.8.png)  
+- 目标三下面有隐藏的文字，原文如下  
+  ![](img/2/v3.42.png)
 
+#### 视频内信息
 - 视频为 `yang_rewind`(主视角，简称Y) 和 `Richard_lee`(简称R) 的Minecraft实况视频，全程黑白，但是有部分彩色片段
 - 视频开头Y前往床上睡觉
 - `00:10` Y: `sleeeeeep` R: `ok。`
