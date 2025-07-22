@@ -56,7 +56,7 @@
 - 译为 `发送弹幕以进行下一步`
 
 ### 3. [视频] record20190722_085432_224655
-> **时间** 2025-07-22 17:24:29 
+> **时间** 2025-07-22 17:24:29  
 > **BV**1zagHzTEub  
 > **简介** -
 
@@ -67,5 +67,6 @@
   ![](img/2/v3.1.png)  
   结尾隐写 [`www.gonethings.cloud`](https://www.gonethings.cloud)，这是一个网址  
   ![](img/2/v3.3.png)  
-  网页包含很多新闻，页脚为盲文 `from another world`  
+  网页包含很多新闻，页脚为盲文 `from another world`，点击后跳转至 [www.gonethings.cloud/password](https://www.gonethings.cloud/password) (404)  
   ![](img/2/v3.4.png)  
+  ![](img/2/v3.5.png)
