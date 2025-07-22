@@ -144,7 +144,7 @@
   ![](img/2/v3.42.png)
 
 #### 视频内信息
-- 视频为 `yang_rewind`(主视角，简称Y) 和 `Richard_lee`(简称R) 的Minecraft实况视频，全程黑白，但是有部分彩色片段
+- 视频为 `yang_rewind`(主视角，简称Y) 和 `Richard_lee`(简称R) 的Minecraft实况视频，半程黑白，黑白部分有彩色片段
 - 视频开头Y前往床上睡觉  
 - `00:10` Y: `sleeeeeep` R: `ok。`  
 - `00:20` 开门出现异常史蒂夫，Y说的话看不清，随后画面被吸入，闪白，切换场景  
