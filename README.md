@@ -1,6 +1,6 @@
 # ARG-20151222
 
-**更新时间 `2025-07-22 19:12`**
+**更新时间 `2025-07-22 19:25`**
 
 ## 须知
 - 这里是新的文档，旧的文档请见 [README.old.md](README.old.md)
@@ -74,3 +74,8 @@
   ![](img/2/v3.5.png)  
   网站有篇文章叫 `这里是你想来的地方吗？`，点击后跳转到 [https://www.gonethings.cloud/archives/1](https://www.gonethings.cloud/archives/1)，该页面有一张地铁站的图片  
   ![地铁站图片](https://www.gonethings.cloud/upload/thumbnails/2025/w1600/1.png)
+- 视频为 `yang_rewind`(主视角，简称Y) 和 `Richard_lee`(简称R) 的Minecraft游玩视频，全程黑白，但是有部分彩色片段和隐藏文字
+- `00:20` 开门出现异常史蒂夫，随后画面被吸入，闪白，切换场景
+  ![](img/2/v3.6.png)
+- `00:57` 闪过文字 `拿上我的装备`
+  ![](img/2/v3.7.png)
