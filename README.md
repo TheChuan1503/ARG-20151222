@@ -1,6 +1,6 @@
 # ARG-20151222
 
-**更新时间 `2025-07-22 19:00`**
+**更新时间 `2025-07-22 19:12`**
 
 ## 须知
 - 这里是新的文档，旧的文档请见 [README.old.md](README.old.md)
@@ -68,6 +68,9 @@
   ![](img/2/v3.1.png)  
   结尾隐写 [`www.gonethings.cloud`](https://www.gonethings.cloud)，这是一个网址  
   ![](img/2/v3.3.png)  
+  网站标题为 `osrcvbxscxiz` (暂无意义)  
   网页包含很多新闻，页脚为盲文 `from another world`，点击后跳转至 [www.gonethings.cloud/password](https://www.gonethings.cloud/password) (404)  
   ![](img/2/v3.4.png)  
-  ![](img/2/v3.5.png)
+  ![](img/2/v3.5.png)  
+  网站有篇文章叫 `这里是你想来的地方吗？`，点击后跳转到 [https://www.gonethings.cloud/archives/1](https://www.gonethings.cloud/archives/1)，该页面有一张地铁站的图片  
+  ![地铁站图片](https://www.gonethings.cloud/upload/thumbnails/2025/w1600/1.png)
