@@ -1,6 +1,6 @@
 # ARG-20151222
 
-**更新时间 `2025-07-22 23:04`**
+**更新时间 `2025-07-23 00:30`**
 
 ## 须知
 - 这里是新的文档，旧的文档请见 [README.old.md](README.old.md)
@@ -22,6 +22,7 @@
       - [视频外信息](#视频外信息)
       - [视频内信息](#视频内信息)
     - [4. \[动态\] Interference release](#4-动态-interference-release)
+    - [\[邮件\] 2025-07-23 00:20](#-邮件-2025-07-23-00-20)
 
 ## 放在前面
 ### 关于此ARG
@@ -250,3 +251,28 @@
 - 群u们提出了猜测  
   this is not home，this is a trap (这不是家，这是陷阱)  
   this is not home，this is third (这不是家，这是The Third)  
+
+### [邮件] 2025-07-23 00:20
+- 发件
+  ```
+  How many times will requesting help cause your strength to weaken? What is your full name? Is the final box your product?
+  ```
+  译为
+  ```
+  多少次的求助会导致你的力量变弱？你的全名是什么？末影箱(群u用的机翻)是做的吗？
+  ```
+
+- 来件
+  ```
+  More than 10 helps will cause my strength to weaken.
+  LiangCaiQi.
+  Yeah.The final box is my product.
+  By the way,I can only answer three questions per email.
+  ```
+  译为
+  ```
+  超过10个求助会导致我的力量变弱
+  梁才奇
+  对，末影箱是我做的
+  顺便说一句，每封邮件我只能回答三个问题  
+  ```
