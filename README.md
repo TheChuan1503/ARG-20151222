@@ -1,9 +1,10 @@
 # ARG-20151222
 
-**更新时间 `2025-07-22 18:28`**
+**更新时间 `2025-07-22 19:00`**
 
 ## 须知
 - 这里是新的文档，旧的文档请见 [README.old.md](README.old.md)
+- 更加权威的文档: [https://docs.qq.com/doc/DY0xTQnJSekZtU21P](https://docs.qq.com/doc/DY0xTQnJSekZtU21P)
   
 ## 目录
 - [ARG-20151222](#arg-20151222)
