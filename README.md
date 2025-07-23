@@ -233,9 +233,9 @@
 > **时间** 2025-07-22 21:38  
 > ![](img/2/s4.1.png) ![](img/2/s4.2.jpg)
 
-- 译为 `干扰被释放`
-- 群u猜测是视频里箱子里物品摆放错了，发了个动态修正
-- 图1群u解出了一个邮箱 `cremrofnl@gmail.com`
+- 译为 `干扰释放`
+- 这大概是因为视频太模糊所以发了个高清的
+- 图1群u解出了一个邮箱 `cremrofnl@gmail.com` (解法看腾讯文档)
 - 群u发了邮件(具体内容未知)后得到了回复  
   ```
   [bridge]You can only ask for help once a day, don't ask too many, otherwise I will be weakened. Someone is protecting us, I don't need to encrypt.
