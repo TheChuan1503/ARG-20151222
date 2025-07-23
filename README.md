@@ -1,49 +1,43 @@
-# ARG-20151222
+**更新时间 `2025-07-23 12:28`**
 
-**更新时间 `2025-07-23 00:37`**
-
-## 须知
-- 这里是新的文档，旧的文档请见 [README.old.md](README.old.md)
+# 须知
+- 这里是第二季的文档，旧的文档请见 [README.old.md](README.old.md)
 - 更加权威的文档: [https://docs.qq.com/doc/DY0xTQnJSekZtU21P](https://docs.qq.com/doc/DY0xTQnJSekZtU21P)
   
-## 目录
-- [ARG-20151222](#arg-20151222)
-  - [须知](#须知)
-  - [目录](#目录)
-  - [放在前面](#放在前面)
-    - [关于此ARG](#关于此arg)
-    - [什么是ARG?](#什么是arg)
-    - [加密解密常用工具](#加密解密常用工具)
-  - [解析](#解析)
-    - [账号信息](#账号信息)
-    - [1. \[视频\] Coming soon](#1-视频-coming-soon)
-    - [2. \[动态\] Post a barrage to proceed to the next step](#2-动态-post-a-barrage-to-proceed-to-the-next-step)
-    - [3. \[视频\] record20190722\_085432\_224655](#3-视频-record20190722_085432_224655)
-      - [视频外信息](#视频外信息)
-      - [视频内信息](#视频内信息)
-    - [4. \[动态\] Interference release](#4-动态-interference-release)
-    - [\[邮件\] 2025-07-23 00:20](#邮件-2025-07-23-0020)
+# 目录
+- [须知](#须知)
+- [目录](#目录)
+- [放在前面](#放在前面)
+  - [关于此ARG](#关于此arg)
+  - [加密解密常用工具](#加密解密常用工具)
+- [发展](#发展)
+  - [账号信息](#账号信息)
+  - [1. \[视频\] Coming soon](#1-视频-coming-soon)
+  - [2. \[动态\] Post a barrage to proceed to the next step](#2-动态-post-a-barrage-to-proceed-to-the-next-step)
+  - [3. \[视频\] record20190722\_085432\_224655](#3-视频-record20190722_085432_224655)
+    - [视频外信息](#视频外信息)
+    - [视频内信息](#视频内信息)
+  - [4. \[动态\] Interference release](#4-动态-interference-release)
+  - [\[邮件\] 2025-07-23 00:20](#邮件-2025-07-23-0020)
 
-## 放在前面
-### 关于此ARG
+# 放在前面
+## 关于此ARG
 - 此ARG围绕bilibili@**messager_mc** (旧称: aW50ZXJtZWRpYX 和 bili_20151222, UID: 3546831258651103)展开
-
-### 什么是ARG?
 - ARG是一种跨媒体、即时、不可逆的游戏，通常为解密类游戏
 
-### 加密解密常用工具
+## 加密解密常用工具
 - [RSA 加密/解密 - 锤子在线工具](https://www.toolhelper.cn/AsymmetricEncryption/RSA)
 - [Base64 编码/解码 - 锤子在线工具](https://www.toolhelper.cn/EncodeDecode/Base64)
 - [维吉尼亚密码在线加密解密 - 千千秀字](https://www.qqxiuzi.cn/bianma/weijiniyamima.php)
 - [在线凯撒密码加密解密](https://www.lddgo.net/encrypt/caesar-cipher)
 - [在线摩斯密码翻译器](https://www.lddgo.net/encrypt/morse)
 
-## 解析
-### 账号信息
-- **旧**昵称 `aW50ZXJtZWRpYX` 经过 Base64 解码后得到 `intermediap`, 作用未知
+# 发展
+## 账号信息
+- **旧**昵称 `aW50ZXJtZWRpYX` 经过 Base64 解码后得到 `intermedia`, 作用未知
 - **现**昵称 `messager_mc`
 
-### 1. [视频] Coming soon
+## 1. [视频] Coming soon
 > **动态** Coming soon  
 > **时间** 2025-07-18 12:00:54  
 > **BV**1augGzwEpr  
@@ -56,19 +50,19 @@
   
 - 也许这是第二季的预告
 
-### 2. [动态] Post a barrage to proceed to the next step
+## 2. [动态] Post a barrage to proceed to the next step
 > **时间** 2025-07-18 12:10
 
 - 译为 `发送弹幕以进行下一步`
 
-### 3. [视频] record20190722_085432_224655
+## 3. [视频] record20190722_085432_224655
 > **时间** 2025-07-22 17:24:29  
 > **BV**1zagHzTEub  
 > **简介** -
 
 - 视频长达9分17秒
 
-#### 视频外信息
+### 视频外信息
 - 视频背景音频为低频噪音＋频谱图隐写
   ![](img/2/v3.2.png)  
   开头隐写 `are you all right?`  
@@ -76,10 +70,12 @@
   结尾隐写 [`www.gonethings.cloud`](https://www.gonethings.cloud)，这是一个网址  
   ![](img/2/v3.3.png)  
 - 网站标题为 `osrcvbxscxiz` (暂无意义)  
+- 网站图标  
+  ![网站图标](https://www.gonethings.cloud/upload/aW50ZXJtZWRpYX-Vlqd.png){: width="100px"}
 - 网页包含很多新闻，页脚为盲文 `from another world`，点击后跳转至 [www.gonethings.cloud/password](https://www.gonethings.cloud/password) (404)  
   ![](img/2/v3.4.png)  
   ![](img/2/v3.5.png)  
-  网站有篇文章叫 `这里是你想来的地方吗？`，点击后跳转到 [https://www.gonethings.cloud/archives/1](https://www.gonethings.cloud/archives/1)，该页面有一张地铁站的图片  
+  网站有篇文章叫 `这里是你想来的地方吗？`，点击后跳转到 [https://www.gonethings.cloud/archives/1](https://www.gonethings.cloud/archives/1)，该页面有一张地铁站的图片，图片上有透明度极低的信封图案(网站图标)  
   ![地铁站图片](https://www.gonethings.cloud/upload/thumbnails/2025/w1600/1.png)  
   图片点击后进入 [https://www.gonethings.cloud/■■■record](https://www.gonethings.cloud/%E2%96%A0%E2%96%A0%E2%96%A0record)  
   页面内容:
@@ -144,7 +140,7 @@
 - 目标三下面有隐藏的文字，原文如下  
   ![](img/2/v3.42.png)
 
-#### 视频内信息
+### 视频内信息
 - 视频为 `yang_rewind`(主视角，简称Y) 和 `Richard_lee`(简称R) 的Minecraft实况视频，半程黑白，黑白部分有彩色片段
 - 视频开头Y前往床上睡觉  
 - `00:10` Y: `sleeeeeep` R: `ok。`  
@@ -174,7 +170,7 @@
   ![](img/2/v3.15.png)
 - `02:47` `他没带火把吗？`  
   ![](img/2/v3.16.png)
-- `02:50` `我想有金苹果` Y: `woc，运气不错`，箱子里有仅一张11号唱片，但是被不明黑色色块挡住了  
+- `02:50` `我想有金苹果` Y: `woc，运气不错`，箱子里有仅一张11号唱片，但是被不明黑色色块挡住了，随后视频被裁剪  
   ![](img/2/v3.17.png)
 - `02:52` `希望有金苹果`  
   ![](img/2/v3.18.png)
@@ -194,6 +190,7 @@
   ![](img/2/v3.23.png)
 - `04:34` `东西放完了` `真是充实的一天啊`  
   ![](img/2/v3.24.png)
+- `04:19` 有玩家被打的声音
 - `04:41` `lee在干嘛？`  
   ![](img/2/v3.25.png)
 - `04:47` Y: `晚安理查德，好梦`，R: `晚安。`，转头走进房间  
@@ -211,6 +208,7 @@
   ![](img/2/v3.31.png)
 - `06:46` `我好像，来过这里，为什么没有插火把？`  
   ![](img/2/v3.32.png)
+- `06:56` `铁...`
 - `08:47` `嗯？`  
   ![](img/2/v3.33.png)
 - `08:50` 画面色散，箱子里只有一个11号唱片，声音卡顿，闪黑  
@@ -225,11 +223,11 @@
   ![](img/2/v3.38.png)
 - `09:13` 末影箱，打开里面有一个疑似11号唱片的物品  
   ![](img/2/v3.39.png)
-- `09:14` 似乎有文字 `__ record in`，转头被不明实体击杀，黑屏，视频结束  
+- `09:14` 似乎有文字 `__ record in`，转头被 `Richard_lee` (已证实)击杀，黑屏，视频结束  
   ![](img/2/v3.40.png)
   ![](img/2/v3.41.png)
 
-### 4. [动态] Interference release
+## 4. [动态] Interference release
 > **时间** 2025-07-22 21:38  
 > ![](img/2/s4.1.png) ![](img/2/s4.2.jpg)
 
@@ -253,7 +251,7 @@
   this is not home，this is a trap (这不是家，这是陷阱)  
   this is not home，this is third (这不是家，这是The Third)  
 
-### [邮件] 2025-07-23 00:20
+## [邮件] 2025-07-23 00:20
 - 发件
   ```
   How many times will requesting help cause your strength to weaken? What is your full name? Is the final box your product?
