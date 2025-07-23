@@ -1,4 +1,4 @@
-**更新时间 `2025-07-23 12:49`**
+**更新时间 `2025-07-23 15:02`**
 
 # 须知
 - 这里是第二季的文档，旧的文档请见 [README.old.md](README.old.md)
@@ -76,10 +76,8 @@ _该视频已被删除_
   网站有篇文章叫 `这里是你想来的地方吗？`，点击后跳转到 [https://www.gonethings.cloud/archives/1](https://www.gonethings.cloud/archives/1)，该页面有一张地铁站的图片，暂无意义，图片上有透明度极低的信封图案(网站图标)  
   <img src="https://www.gonethings.cloud/upload/thumbnails/2025/w1600/1.png" alt="地铁站图片" width="200px">  
   图片点击后进入 [https://www.gonethings.cloud/■■■record](https://www.gonethings.cloud/%E2%96%A0%E2%96%A0%E2%96%A0record)  
-  网页快照  
-  <img src="img/2/v3.8.png" alt="" width="240px">  
-- 目标二下面有隐藏的文字  
-  <img src="img/2/v3.42.png" alt="" width="240px">
+- 每一段及目标二下面有隐藏的文字(白色为隐藏的文字)  
+  <img src="img/2/v3.43.png" alt="网页快照" width="240px">
 
 ### 视频内信息
 - 视频为 `yang_rewind`(主视角，简称Y) 和 `Richard_lee`(简称R) 的Minecraft实况(?)视频，半程黑白，黑白部分有彩色片段
