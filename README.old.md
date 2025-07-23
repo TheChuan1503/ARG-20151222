@@ -84,18 +84,17 @@
 - The Third是一个组织
 - The Third正在干扰/篡改着什么 _未验证_
 - 通过邮箱询问属于"外挂"
-- 与逆模因女孩歌词有关
 - 与干扰手段无关
 - 不是时间循环
 - 与原SCP组织无关
-- 与SCP-MC部分有关
-- 邮箱主人是SCP-MC
-- 主角真实姓名为梁才奇，7岁
+- 与SCP-MC部分有关(mc-625)
+- 旧邮箱主人是SCP-MC
+- 主角真实姓名为梁才奇，2015年时7岁
 - 主角是实验品
-- 普通结局已达成
+- 第一季已结束(普通结局)
 
 ### 网址
-_所有 `www.chipcraft.top` 进不去可替换为 `chipcraft.thi.us.kg` 镜像站_
+_所有 `www.chipcraft.top` 进不去可替换为 `chipcraft.thi.us.kg` 镜像站(目前镜像站域名挂了)_
 - [`www.chipcraft.top`](http://www.chipcraft.top/)  
   网站主页  
   详情: [3. [视频] 2015122■-[no signal].mp4](#3-视频-2015122-no-signalmp4)
@@ -603,8 +602,9 @@ _**不好！**_
 > fC0gLSAtIC0gLSAtIC0gLSAtIC18IDAwLjAwJS8xMDAuMDAlCnyh9qH2ofah9qH2ofah9qH2ofah9nwgOTkuOTklLzEwMC4wMCUKfKH2ofah9qH2ofah9qH2ofah9qH2fCA5OS45OSUvMTAwLjAwJQp8ofah9qH2ofah9qH2ofah9qH2ofZ8IDk5Ljk5JS8xMDAuMDAlCnyh9iAgIKH2ofah9qH2ofah9qH2ofZ8IDQ5OS45OSUvMTAwLjAwJQogICCh9qH2ofah9qH2ofah9qH2ofah9nwgNTk5Ljk5JS8xMDAuMDAlCnwgICCh9qH2ofah9qH2ofah9qH2ofZ8IDE5OS45OSUvMTAwLjAwJQp8ofah9qH2ofah9qH2ofah9iAgIKH2fCAyMDk5Ljk5JS8xMDAuMDAlCnyh9qH2ofah9qH2ofah9qH2ofah9nwgODk5Ljk5JS8xMDAuMDAlCkVycm9yOiBqYXZhLmxhbmcuTnVsbFBvaW50ZXJFeGNlcHRpb24KQSBlcnJvcqO/Ck5vo78KU28uLi5maXggaXSjvwpObyxpdCBtaWdodCBiZSB2ZXJ5IGludGVyZXN0aW5nOik=
 > ```
 
-- 视频画面上方写着 `transfering`，画面疑似终端加载界面(?)
-- 简介为base64，解码后得到
+- 这是一期第二季的预告
+- 视频画面上方写着 `transfering`，画面为拉伸的条形码(?)，扫码后得到 `dream`
+- 简介为base64，解码后得到  
   ```
   |- - - - - - - - - -| 00.00%/100.00%
   || 99.99%/100.00%
