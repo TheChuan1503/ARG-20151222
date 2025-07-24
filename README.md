@@ -1,4 +1,4 @@
-**更新时间 `2025-07-23 23:50`**
+**更新时间 `2025-07-24 12:34`**
 
 # 须知
 - 这里是第二季的文档，旧的文档请见 [README.old.md](README.old.md)
@@ -20,6 +20,7 @@
   - [4. \[动态\] Interference release](#4-动态-interference-release)
   - [\[邮件\] 2025-07-23 00:20](#邮件-2025-07-23-0020)
   - [5. \[视频\] record#1](#5-视频-record1)
+  - [\[邮件\] 2025-07-24](#邮件-2025-07-24)
 
 # 放在前面
 ## 关于此ARG
@@ -162,7 +163,7 @@ _该视频已被删除_
   <img src="img/2/v3.37.png" alt="" width="240px">
 - `09:08` `死腿给我跳啊`  
   <img src="img/2/v3.38.png" alt="" width="240px">
-- `09:13` 末影箱，打开里面有一个疑似11号唱片的物品  
+- `09:13` 末影箱，打开后Y把11号唱片放了进去  
   <img src="img/2/v3.39.png" alt="" width="240px">
 - `09:14` 似乎有文字 `__ record in`，转头被 `Richard_lee` (已证实)击杀，黑屏，视频结束  
   <img src="img/2/v3.40.png" alt="" width="240px">
@@ -204,6 +205,7 @@ _该视频已被删除_
 
 - 来件
   ```
+  [bridge]
   More than 10 helps will cause my strength to weaken.
   LiangCaiQi.
   Yeah.The final box is my product.
@@ -222,4 +224,36 @@ _该视频已被删除_
 > **BV**1vc8wzxEzT  
 > **简介** -
 
+- 视频全程有阴间滤镜，但是打开箱子指向 `java.lang.NullPointerException` (空指针异常) 时画面恢复正常  
+  <img src="img/2/v5.1.png" alt="" width="240px">
+
+- 值得注意的是，地板似乎是某种意义不明的图案。传送门火焰(?)定格似乎与网站的儿童失踪新闻相符  
+  <img src="img/2/v5.2.png" alt="" width="240px"> <img src="img/2/v5.3.jpg" alt="" height="134.5px">
+
 - 暂时没看出什么有效信息
+
+## [邮件] 2025-07-24
+- 发件
+  ```
+  Can you talk about the relationship between messager, The third and 625 from your purpose and your camp
+  ```
+  译为
+  ```
+  能不能从你的目的和立场谈谈messager，The third和625(scp-mc-625)的关系？
+  ```
+
+- 来件
+  ```
+  [bridge]It's hard to say.
+  I haven't too much time to see these content.Don't ask too much questions.
+  As far as I know,625 is one of the Anomalies of The Third subordinate.
+  About Messenger,I can't tell you now.This may lead to bad results.
+  Liang
+  ```
+  译为
+  ```
+  难说，我没有太多时间去看这些内容，请勿追问过多。
+  据我所知，625是The third下属的异常之一。
+  关于messager，现在不能告诉你，这可能会造成不好的影响。
+  —— 梁才奇
+  ```
