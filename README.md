@@ -224,7 +224,7 @@ _该视频已被删除_
 > **BV**1vc8wzxEzT  
 > **简介** -
 
-- 视频全程有阴间滤镜，但是打开箱子指向 `java.lang.NullPointerException` (空指针异常) 时画面恢复正常  
+- 视频全程有阴间滤镜，但是打开箱子指向 `java.lang.NullPointerException` (空指针异常) 时画面恢复正常，经验值为 `2118` 级  
   <img src="img/2/v5.1.png" alt="" width="240px">
 
 - 值得注意的是，地板似乎是某种意义不明的图案。传送门火焰(?)定格似乎与网站的儿童失踪新闻相符  
