@@ -10,6 +10,7 @@
 - [放在前面](#放在前面)
   - [关于此ARG](#关于此arg)
   - [加密解密常用工具](#加密解密常用工具)
+  - [相关链接](#相关链接)
 - [发展](#发展)
   - [账号信息](#账号信息)
   - [1. \[视频\] Coming soon](#1-视频-coming-soon)
@@ -33,8 +34,18 @@
 - [RSA 加密/解密 - 锤子在线工具](https://www.toolhelper.cn/AsymmetricEncryption/RSA)
 - [Base64 编码/解码 - 锤子在线工具](https://www.toolhelper.cn/EncodeDecode/Base64)
 - [维吉尼亚密码在线加密解密 - 千千秀字](https://www.qqxiuzi.cn/bianma/weijiniyamima.php)
-- [在线凯撒密码加密解密](https://www.lddgo.net/encrypt/caesar-cipher)
+- [凯撒(Caesar)加密/解密 - Bugku CTF平台](https://ctf.bugku.com/tool/caesar)
 - [在线摩斯密码翻译器](https://www.lddgo.net/encrypt/morse)
+- [RC2 加密/解密 - 锤子在线工具](https://www.toolhelper.cn/SymmetricEncryption/RC2)
+
+## 相关链接
+- [SCP-MC-625 - SCP基金会Minecraft分部](https://scp-wiki-mc.wikidot.com/scp-mc-625)
+- [osrcvbxscxiz](https://www.gonethings.cloud/)  
+  该网站内容的分析在 [3. 视频外信息](#视频外信息) 中  
+  在 [`/■■■record`](https://www.gonethings.cloud/%E2%96%A0%E2%96%A0%E2%96%A0record) 中在地址栏输入以下内容可以看见隐藏文字(JS-CSS 代码注入)  
+  ```js
+  javascript:(function(){var s=document.createElement('style');s.innerHTML='.transparent-text{color:white;opacity:1;background:#101216}';document.body.appendChild(s);})();
+  ```
 
 # 发展
 ## 账号信息
@@ -261,7 +272,7 @@ _该视频已被删除_
   ```
 
 ## [邮件] 2025-07-25
-> **发件时间** 2025-07-03
+> **发件时间** 2025-07-22 or 23(?)
 
 - 发件
   ```
