@@ -1,4 +1,4 @@
-**更新时间 `2025-07-24 12:34`**
+**更新时间 `2025-07-25 18:46`**
 
 # 须知
 - 这里是第二季的文档，旧的文档请见 [README.old.md](README.old.md)
@@ -21,6 +21,8 @@
   - [\[邮件\] 2025-07-23 00:20](#邮件-2025-07-23-0020)
   - [5. \[视频\] record#1](#5-视频-record1)
   - [\[邮件\] 2025-07-24](#邮件-2025-07-24)
+  - [\[邮件\] 2025-07-25](#邮件-2025-07-25)
+  - [6. \[动态\] _无标题_](#6-动态-无标题)
 
 # 放在前面
 ## 关于此ARG
@@ -256,4 +258,55 @@ _该视频已被删除_
   据我所知，625是The third下属的异常之一。
   关于messager，现在不能告诉你，这可能会造成不好的影响。
   —— 梁才奇
+  ```
+
+## [邮件] 2025-07-25
+> **发件时间** 2025-07-03
+
+- 发件
+  ```
+  WHO R U
+  ```
+
+- 来件
+  ```
+  [bridge]Okey.
+  I
+  ```
+
+## 6. [动态] _无标题_
+> **时间** 2025-07-25 18:12  
+> ```
+> Technical details of permanent failure:
+> Google tried to deliver your message, but it was rejected by the server for the
+> recipient domain by aspmx.l.google.com. [Error:ECB].
+> 
+> The errorhat the other server returned was
+> 451-1.1The email server temporarily rejected this message.
+> 451-5.1.1 double-checking the recipient's email address for typos or "RC2"
+> 451-5.1.1 That is not him.
+> 451-5.1.1 https://support.google.com/mail/answer/3726730
+> dwx1G1Fl/5IGfzLCVAs3v3DRDdgDVQ9PoWi6JleJYhQ= - gsmtp
+> ```
+
+- 译为
+  ```
+  永久性失败的技术细节：
+  Google尝试投递您的邮件，但被收件方域名的服务器aspmx.l.google.com拒绝。[错误代码：ECB]
+  
+  对方服务器返回的错误信息为：
+  451-1.1 邮件服务器暂时拒绝了此消息。
+  451-5.1.1 请仔细检查收件人邮箱地址是否存在拼写错误或"RC2"
+  451-5.1.1 该地址并非其本人。
+  451-5.1.1 详情请参阅：https://support.google.com/mail/answer/3726730
+  dwx1G1Fl/5IGfzLCVAs3v3DRDdgDVQ9PoWi6JleJYhQ= - gsmtp
+  ```
+
+- 末行 `dwx1G1Fl/5IGfzLCVAs3v3DRDdgDVQ9PoWi6JleJYhQ=` 是RC2 ECB算法密文，`gsmtp` 是密钥，解密后得到
+  ```
+  Don't worry.It will be fine.
+  ```
+  译为
+  ```
+  不用担心，一切都会好起来的。
   ```
