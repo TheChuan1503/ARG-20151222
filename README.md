@@ -1,4 +1,4 @@
-**更新时间 `2025-07-28 11:52`**
+**更新时间 `2025-07-28 21:39`**
 
 # 须知
 - 这里是第二季的文档，旧的文档请见 [README.old.md](README.old.md)
@@ -24,6 +24,8 @@
   - [\[邮件\] 2025-07-24](#邮件-2025-07-24)
   - [\[邮件\] 2025-07-25](#邮件-2025-07-25)
   - [6. \[动态\] _无标题_](#6-动态-无标题)
+  - [\[邮件\] 2025-07-26 23:02](#邮件-2025-07-26-2302)
+  - [\[邮件\] 2025-07-28 12:31](#邮件-2025-07-28-1231)
 
 # 放在前面
 ## 关于此ARG
@@ -265,8 +267,8 @@ _该视频已被删除_
   Liang
   ```
   译为
-  ```
-  难说，我没有太多时间去看这些内容，请勿追问过多。
+  ```难说。
+  我没有太多时间去看这些内容，请勿追问过多。
   据我所知，625是The third下属的异常之一。
   关于messager，现在不能告诉你，这可能会造成不好的影响。
   —— 梁才奇
@@ -285,6 +287,7 @@ _该视频已被删除_
   [bridge]Okey.
   I
   ```
+  _~~瞎几把乱回这是~~_
 
 ## 6. [动态] _无标题_
 > **时间** 2025-07-25 18:12  
@@ -309,7 +312,7 @@ _该视频已被删除_
   对方服务器返回的错误信息为：
   451-1.1 邮件服务器暂时拒绝了此消息。
   451-5.1.1 请仔细检查收件人邮箱地址是否存在拼写错误或"RC2"
-  451-5.1.1 该地址并非其本人。
+  451-5.1.1 该地址并非其本人(这不是他)。
   451-5.1.1 详情请参阅：https://support.google.com/mail/answer/3726730
   dwx1G1Fl/5IGfzLCVAs3v3DRDdgDVQ9PoWi6JleJYhQ= - gsmtp
   ```
@@ -321,4 +324,50 @@ _该视频已被删除_
   译为
   ```
   不用担心，一切都会好起来的。
+  ```
+- 该错误在 [`Gmail SMTP 错误和代码`](https://support.google.com/mail/answer/3726730) 页面中并不存在
+
+## [邮件] 2025-07-26 23:02
+- 发件
+  ```
+  TheThird.png
+  ```
+  _~~瞎几把乱发这是~~_
+
+- 来件
+  ```
+  [bridge]I don't understand what you mean. This is the symbol of The Third; they are the masterminds behind all of this. During a previous incident, I seized the chance to start resisting them.I don't know what you want. Please give me clear instructions so that my waning strength can count for something.
+  ```
+  译为
+  ```
+  我不明白你的意思。这是The Third的象征;他们是这一切的幕后主使。在上次的事件中，我抓住机会开始反抗他们。我不知道你想要什么。请给我明确的指示，让我日渐衰弱的力量能派上用场。
+  ```
+
+## [邮件] 2025-07-28 12:31
+- 发件
+  ```
+  mean this?
+  "luce was live"?
+  ```
+  译为
+  ```
+  是这个意思吗？
+  "luce was live" (Luce 曾活着/Luce 在直播/?)？
+  ```
+
+- 来件
+  ```
+  [bridge]Well...you got me on that one.
+  I don't know who is Luce.New victim?
+  I DON'T KNOW WHAT IS FUCKING MEANING FOR YOU!I can't distinguish whether all the messages are meaningful or not.
+  So,what's the point of what you're saying?Wasting my strength?Now,I will become weak after 5 helps.DON'T WASTE YOUR HELPS.
+  Liang
+  ```
+  译为
+  ```
+  好吧... 这次你难倒我了。
+  我不知道 Luce 是谁。新的受害者吗？
+  我他妈根本不懂你在说什么！我无法分辨这些信息到底有没有意义。
+  所以你说这些的用意是什么？浪费我的力气？现在我只能再帮5次就会变得虚弱。别浪费你的求助机会。
+  —— 梁才奇
   ```
