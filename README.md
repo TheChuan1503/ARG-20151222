@@ -1,4 +1,4 @@
-**更新时间 `2025-07-25 18:46`**
+**更新时间 `2025-07-28 11:52`**
 
 # 须知
 - 这里是第二季的文档，旧的文档请见 [README.old.md](README.old.md)
@@ -37,6 +37,7 @@
 - [凯撒(Caesar)加密/解密 - Bugku CTF平台](https://ctf.bugku.com/tool/caesar)
 - [在线摩斯密码翻译器](https://www.lddgo.net/encrypt/morse)
 - [RC2 加密/解密 - 锤子在线工具](https://www.toolhelper.cn/SymmetricEncryption/RC2)
+- [Playfair Cipher - A.Tools](https://www.a.tools/Tool.php?Id=262)
 
 ## 相关链接
 - [SCP-MC-625 - SCP基金会Minecraft分部](https://scp-wiki-mc.wikidot.com/scp-mc-625)
@@ -83,7 +84,7 @@ _该视频已被删除_
   <img src="img/2/v3.2.png" alt="" width="240px">  
   开头隐写 `are you all right?`，结尾隐写 [`www.gonethings.cloud`](https://www.gonethings.cloud)，这是一个网址   
   <img src="img/2/v3.1.png" alt="" height="92px"> <img src="img/2/v3.3.png" alt="" width="240px">   
-- 网站标题为 `osrcvbxscxiz` (暂无意义)  
+- 网站标题为 `osrcvbxscxiz`，副标题为 `crime`，标题似乎是普莱费尔(Playfair)密文，通过密钥 `crime` 解密得到 `lucewaslive`，意义不明    
 - 网站图标  
   <img src="https://www.gonethings.cloud/upload/aW50ZXJtZWRpYX-Vlqd.png" alt="网站图标" width="120px">
 - 网页包含很多新闻，页脚为盲文 `from another world`，点击后跳转至 [www.gonethings.cloud/password](https://www.gonethings.cloud/password) (404)  
