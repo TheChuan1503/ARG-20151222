@@ -26,6 +26,7 @@
   - [6. \[动态\] _无标题_](#6-动态-无标题)
   - [\[邮件\] 2025-07-26 23:02](#邮件-2025-07-26-2302)
   - [\[邮件\] 2025-07-28 12:31](#邮件-2025-07-28-1231)
+  - [\[邮件\] 2025-07-29](#邮件-2025-07-29)
 
 # 放在前面
 ## 关于此ARG
@@ -370,4 +371,32 @@ _该视频已被删除_
   我他妈根本不懂你在说什么！我无法分辨这些信息到底有没有意义。
   所以你说这些的用意是什么？浪费我的力气？现在我只能再帮5次就会变得虚弱。别浪费你的求助机会。
   —— 梁才奇
+  ```
+
+## [邮件] 2025-07-29
+- 发件
+  ```
+  l'm very sorry for the previous stupid email. I just decoded osrcvbxscxiz and got this seemingly useful piece of information. Please forgive.
+  And we want ask you for your health. Are you still all right? This will contribute to our progress.
+  (This is not an email asking for help.)
+  ```
+  译为
+  ```
+  对于之前那封愚蠢的邮件，我深感抱歉。我刚破译了osrcvbxscxiz并得到了这条看似有用的信息，请原谅。
+  我们还想询问您的健康状况，您一切都还好吗？这将有助于我们的进展。
+  （这不是一封求助邮件。）
+
+- 来件
+  ```
+  [bridge]I just hope our cooperation can be more efficient.
+  The situation is getting more serious.So bad news.
+  The interference from T3 is getting more stronger.So,replying to every word consumes a lot of effort.
+  So,I repeat:DON'T WASTE YOUR HELP.
+  ```
+  译为
+  ```
+  我只希望我们的合作能更高效些。
+  情况正变得越来越严峻，真是糟糕。
+  来自T3的干扰正变得越来越强，因此，回复每个字都需要耗费大量精力。
+  所以我再次强调：不要浪费你们的求助机会。
   ```
