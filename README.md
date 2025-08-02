@@ -3,7 +3,7 @@
 # 须知
 - 这里是第二季的文档，旧的文档请见 [README.old.md](README.old.md)
 - 更加权威的文档: [https://docs.qq.com/doc/DY0xTQnJSekZtU21P](https://docs.qq.com/doc/DY0xTQnJSekZtU21P)
-  
+
 # 目录
 - [须知](#须知)
 - [目录](#目录)
@@ -53,6 +53,8 @@
   ```js
   javascript:(function(){var s=document.createElement('style');s.innerHTML='.transparent-text{color:white;opacity:1;background:#101216}';document.body.appendChild(s);})();
   ```
+- [？？？](https://rebdstgonem.gonethings.cloud/)  
+  该网站内容的分析在 [7. 视频外信息](#视频外信息-1) 中
 
 本文档所有内容均由bilibili网友，交流群群友和我自己所分析得出的，由我自己撰写，翻译  
 本文档很多内容来自交流群群友撰写的腾讯文档
@@ -429,6 +431,7 @@ _该视频已被删除_
 **网站新内容**
 - 通过视频简介和域名拼接得到新的可访问域名 [`rebdstgonem.gonethings.cloud`](https://rebdstgonem.gonethings.cloud)
 - 网站背景是 `record20190722_085432_224655`，网站似乎是一个弹幕小游戏，`A` `D` 移动，`空格` 跳跃，掉下去会死，意义不明  
+  该网站暂未完成  
   <img src="img/2/v7.6.png" alt="" width="240px">
 
 ### 视频内信息
@@ -437,7 +440,7 @@ _该视频已被删除_
   <img src="img/2/v7.1.png" alt="" width="240px">
 - `00:20` 主视角 yang 被梁杀死，梁: `哪那么多废话...messager! Take him down!`  
   <img src="img/2/v7.2.png" alt="" width="240px">
-- `00:24` 主视角从 `record#1` 的房间中醒来，天花板为扭曲的 `NULLPointER` 文字
+- `00:24` 主视角从 `record#1` 的房间中醒来，天花板为扭曲的 `NULLPointER` 文字  
   <img src="img/2/v7.3.png" alt="" width="240px">
 - `00:34` 梁扔了一张11号唱片，闪过 yang 把唱片放入唱片机的画面，该唱片为 yang 的记忆碎片的一部分  
   <img src="img/2/v7.4.png" alt="" width="240px">
