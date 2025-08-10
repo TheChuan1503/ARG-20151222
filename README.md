@@ -1,4 +1,4 @@
-**更新时间 `2025-08-07`**
+**更新时间 `2025-08-10 12:33`**
  
 # 须知
 - 这里是第二季的文档，旧的文档请见 [README.old.md](README.old.md)
@@ -31,8 +31,15 @@
     - [视频外信息](#视频外信息-1)
     - [视频内信息](#视频内信息-1)
   - [\[网站内容变更\] 2025-08-07](#网站内容变更-2025-08-07)
+  - [\[网站内容变更\] 2025-08-09](#网站内容变更-2025-08-09)
+  - [8. \[视频\] record20190809\_215847\_231042](#8-视频-record20190809_215847_231042)
+    - [视频外信息](#视频外信息-2)
+    - [视频内信息](#视频内信息-2)
 
 # 放在前面
+本文档所有内容均由bilibili网友，交流群群友和我自己所分析得出的，由我自己撰写，翻译  
+本文档很多内容来自交流群群友撰写的腾讯文档
+
 ## 关于此ARG
 - 此ARG围绕bilibili@**messager_mc** (旧称: aW50ZXJtZWRpYX 和 bili_20151222, UID: 3546831258651103)展开
 - ARG是一种跨媒体、即时、不可逆的游戏，通常为解密类游戏
@@ -49,16 +56,13 @@
 ## 相关链接
 - [SCP-MC-625 - SCP基金会Minecraft分部](https://scp-wiki-mc.wikidot.com/scp-mc-625)
 - [osrcvbxscxiz](https://www.gonethings.cloud/)  
-  该网站内容的分析在 [3. 视频外信息](#视频外信息),  [7. 视频外信息](#视频外信息-1), [\[网站内容变更\] 2025-08-07](#网站内容变更-2025-08-07) 中  
+  该网站内容的分析在 [3. 视频外信息](#视频外信息), [7. 视频外信息](#视频外信息-1), [\[网站内容变更\] 2025-08-07](#网站内容变更-2025-08-07), [8. 视频外信息](#视频外信息-2) 中  
   在 [`/■■■record`](https://www.gonethings.cloud/%E2%96%A0%E2%96%A0%E2%96%A0record) 中在地址栏输入以下内容可以看见隐藏文字(JS-CSS 代码注入)，注释请自己查看网页源代码  
   ```js
   javascript:(function(){var s=document.createElement('style');s.innerHTML='.transparent-text{color:white;opacity:1;background:#101216}';document.body.appendChild(s);})();
   ```
 - [？？？](https://rebdstgonem.gonethings.cloud/)  
-  该网站内容的分析在 [7. 视频外信息](#视频外信息-1) 中
-
-本文档所有内容均由bilibili网友，交流群群友和我自己所分析得出的，由我自己撰写，翻译  
-本文档很多内容来自交流群群友撰写的腾讯文档
+  该网站内容的分析在 [7. 视频外信息](#视频外信息-1) 和 [\[网站内容变更\] 2025-08-09](#网站内容变更-2025-08-09) 中
 
 # 发展
 ## 账号信息
@@ -106,7 +110,7 @@ _该视频已被删除_
   图片点击后进入 [https://www.gonethings.cloud/■■■record](https://www.gonethings.cloud/%E2%96%A0%E2%96%A0%E2%96%A0record)  
 - 每一段及目标二下面有隐藏的文字(白色为隐藏的文字)  
   <img src="img/2/v3.43.png" alt="网页快照" width="240px">
-- 新增内容请看 [7. 视频外信息](#视频外信息-1) 和 [\[网站内容变更\] 2025-08-07](#网站内容变更-2025-08-07)
+- 新增内容请看 [7. 视频外信息](#视频外信息-1), [\[网站内容变更\] 2025-08-07](#网站内容变更-2025-08-07) [8. 视频外信息](#视频外信息-2)
 
 ### 视频内信息
 - 视频为 `yang_rewind`(主视角，简称Y) 和 `Richard_lee`(简称R) 的Minecraft实况(?)视频，半程黑白，黑白部分有彩色片段
@@ -452,8 +456,8 @@ _该视频已被删除_
   你的记忆碎片里记录了核心的道路，但是t3那帮混账给你植入了假记忆
   窥视者或者说观众们，请收集这些假记忆中埋藏的真线索，他能不能活就看你们了
   ```
- ## [网站内容变更] 2025-08-07
- > `www.gonethings.cloud` 网站内容变更
+## [网站内容变更] 2025-08-07
+ > `www.gonethings.cloud`
 
 - 新增文章 `2019社会观察报 - 游戏业寒冬加剧：多地小团队创始人失联，行业洗牌加速`，并且在所有文章上增加了目录  
   <img src="img/2/e1.png" alt="" width="240px">  
@@ -461,3 +465,79 @@ _该视频已被删除_
 
 - `/■■■record` 页面出现新的文字，隐藏文字(白色为隐藏的文字)和HTML注释(黄色为注释内容)  
   <img src="img/2/e3.png" alt="" width="240px">
+
+## [网站内容变更] 2025-08-09
+ > `rebdstgonem.gonethings.cloud`
+
+ - 增加了很多障碍物并混淆了源代码
+ - 在相应视频发送弹幕x: y: z:会影响到游戏内出现的坐标
+
+## 8. [视频] record20190809_215847_231042
+> **文件名** 假记忆a[4954F95]  
+> **时间** 2025-08-09 23:23:59  
+> **BV**1rkt8zVEXo  
+> **简介** one
+
+### 视频外信息
+- 频谱图为文字 `dEMc 0` 和 `/BV1BnGtz` 的水平翻转  
+  <img src="img/2/v8.1.png" alt="" width="240px">
+  <img src="img/2/v8.2.jpg" alt="" width="240px">  
+  _转自 QQ@GoMo199999 和 QQ@Yuritopia_  
+  拼接成BV号后指向视频预告一(在第一季文档)
+
+- 把预告一的 `dream`，替换掉 `www.gonethings.cloud/password` 的 `password`，可以进入 [`www.gonethings.cloud/dream`](https://www.gonethings.cloud/dream)
+- 页面标题为 `litematic` (MC投影模组的文件后缀)，内容是一串特别长的 Base64 (一个GZip文件)  
+  ```
+  H4sIAAAAAAAAAJ1VzU9TQRCf0kIfryAViRQPgI2XmmgomCic+CgHSSBYkIMeyOa9pd30sdu83cqHkqhcjPYmJoZoovEj8aDRAwcv3OBAojeJB73LH2D0hvNev/hoI6WHzryZ/c3O/GZ3RwfwQsso49SwyYyKEUWmqC2Z4ACOy1/68umgjVJFTFzjg8Akm6VDNiWKmgCep+bC6k8fNDjWUWGyGVYy69A4zA1LSMYTE2yResEzj/HOoFxAGUC5iNIDGgRiVBo2Syt3Sy8E4jSB6pDIcOUsQcukUMQatISRkmjZ0aBuIKOSwob6oYnYYpJyixVWTQkrM0sR1q6Bb4yg6r/OOUoTdPDnQku9aGyAgBt3QmFRTvDWs1pnMBZ8MOBwAZ7goDZwd7lzc7Aha7ZpXQ1mW+Sht2Ujkr1mhN5G+43QpnblhHz2q3fr6/JLvwf/Ip0j8ZV3kd54/M05Pb7yZOPeo5uhzQvnU0boY9S68X21bu19avXbp7UPsn/78xc53/5nPbj8Y/vvYJOvw78e7Mwaoa3onXYaiTVnX0VG7svXO31j0ezzSNcYqlfdvPSxx46oeQHFXz2cHKfcRL7dgiZZjixcC9o49sGhN98FyHdBz3fBBZdoGCcWVYrqaD9dILFxtnBc+gizMaY+bos0tRWjUgP/LWIzgu2qlUpwCgVUUwmVc1TC+RM24UwdA+kVJFVEBUuotEU4ElAJVifTdsagR0d65yiWN0MsWRYk04InDmXpgnzKzlSBqTWEhSe7di65l48TJdicEFYFUJ1AGhPVog5s1bGXeoK6OZ0ktkkdxbDIwhH3rjZMqTXEIAYjGIfMM+mc1DLlWCLRXTGCZhI7NY0Ho/oY5SlpLoEMwQ2bqkptO8jCEZA+tZCmUC8JN/ffnlN7GCw6y4KbjSST1EJmjxelfNWthzuYsIg8dDUqlH5U+L6rXKZjjfs69r8bXXUAzcax4c4eT1eF3N1XdVqyBEew7+A4293d/V0cZ/XOOLToMFfMCa/nBpi7uBGZmqTz6hIEbocVKuG+cHip8BTnnT0Hne77nHd2Q3PRme4zcRDPhpc0qGHm3mPt5JkHRKGpCLh8sScaXsIEtUJyhcnxD5icDmMQCAAA
+  ```
+  <img src="img/2/v8.3.png" alt="" width="240px">
+- 文件解压之后是一个投影文件  
+  <img src="img/2/v8.4.png" alt="" width="240px">  
+  _图片转自 QQ@查无此人_  
+  告示牌上的内容  
+  ```
+  7.31
+  p:dream
+  ```
+  方块的摆放方式是二进制 `The upper layer of the_nether` (下界上层)
+  ```
+  1010100 1101000 1100101
+  0100000 1110101 1110000
+  1110000 1100101 1110010
+  0100000 1101100 1100001
+  1111001 1100101 1110010
+  0100000 1101111 1100110
+  0100000 1110100 1101000
+  1100101 1011111 1101110
+  1100101 1110100 1101000
+  1100101 1110010
+  ```
+
+
+### 视频内信息
+- 视频比例在缓慢被拉伸
+
+- 视频内的文字  
+  ```
+  steve89586 他到底他妈埋了多少假记忆...
+  steve89586 对不住了...
+
+  别相信他！
+  他不是你的同伴！
+  不要相信他！
+
+  yang_rewind 早上好
+  Richard_lee 早上好。
+  yang_rewind 操
+  yang_rewind 这破炉子怎么这么难用
+  yang_rewind byd一次还没法烧全
+  yang_rewind 他妈的谁造的这个...来着？
+
+  u9700 u8981 u4e8c u8fdb u5236 u65b9 u5757 (熔炉组输出物品的名字)
+
+  The first coordinate (第一个坐标)
+
+  The number of planar graphs with six vertices then add two (6个顶点的平面图数量然后加2)
+  ```
+  _部分转自 bilibili@YangQi0408_  
+  Unicode 解码得到 `需要二进制方块`
