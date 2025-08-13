@@ -1,4 +1,4 @@
-**更新时间 `2025-08-12 19:28`**
+**更新时间 `2025-08-13 13:16`**
  
 # 须知
 - 这里是第二季的文档，旧的文档请见 [README.old.md](README.old.md)
@@ -40,6 +40,7 @@
   - [10. \[动态\] Interference release](#10-动态-interference-release)
   - [11. \[视频\] record20190812\_145612\_174232](#11-视频-record20190812_145612_174232)
   - [\[网站内容变更\] 2025-08-12](#网站内容变更-2025-08-12)
+  - [12. \[视频\] 吾辈乃邮差](#12-视频-吾辈乃邮差)
 
 # 放在前面
 本文档所有内容均由bilibili网友，交流群群友和我自己所分析得出的，由我自己撰写，翻译  
@@ -61,7 +62,7 @@
 ## 相关链接
 - [SCP-MC-625 - SCP基金会Minecraft分部](https://scp-wiki-mc.wikidot.com/scp-mc-625)
 - [osrcvbxscxiz](https://www.gonethings.cloud/)  
-  该网站内容的分析在 [3. 视频外信息](#视频外信息), [7. 视频外信息](#视频外信息-1), [\[网站内容变更\] 2025-08-07](#网站内容变更-2025-08-07), [8. 视频外信息](#视频外信息-2), [\[网站内容变更\] 2025-08-10](#网站内容变更-2025-08-10) 中  
+  该网站内容的分析在 [3. 视频外信息](#视频外信息), [7. 视频外信息](#视频外信息-1), [\[网站内容变更\] 2025-08-07](#网站内容变更-2025-08-07), [8. 视频外信息](#视频外信息-2), [\[网站内容变更\] 2025-08-10](#网站内容变更-2025-08-10), [12. \[视频\] 吾辈乃邮差](#12-视频-吾辈乃邮差) 中  
   在 [`/■■■record`](https://www.gonethings.cloud/%E2%96%A0%E2%96%A0%E2%96%A0record) 中在地址栏输入以下内容可以看见隐藏文字(JS-CSS 代码注入)，注释请自己查看网页源代码  
   ```js
   javascript:(function(){var s=document.createElement('style');s.innerHTML='.transparent-text{color:white;opacity:1;background:#101216}';document.body.appendChild(s);})();
@@ -115,7 +116,7 @@ _该视频已被删除_
   图片点击后进入 [https://www.gonethings.cloud/■■■record](https://www.gonethings.cloud/%E2%96%A0%E2%96%A0%E2%96%A0record)  
 - 每一段及目标二下面有隐藏的文字(白色为隐藏的文字)  
   <img src="img/2/v3.43.png" alt="网页快照" width="240px">
-- 新增内容请看 [7. 视频外信息](#视频外信息-1), [\[网站内容变更\] 2025-08-07](#网站内容变更-2025-08-07), [8. 视频外信息](#视频外信息-2), [\[网站内容变更\] 2025-08-10](#网站内容变更-2025-08-10)
+- 新增内容请看 [7. 视频外信息](#视频外信息-1), [\[网站内容变更\] 2025-08-07](#网站内容变更-2025-08-07), [8. 视频外信息](#视频外信息-2), [\[网站内容变更\] 2025-08-10](#网站内容变更-2025-08-10), [12. \[视频\] 吾辈乃邮差](#12-视频-吾辈乃邮差)
 
 ### 视频内信息
 - 视频为 `yang_rewind`(主视角，简称Y) 和 `Richard_lee`(简称R) 的Minecraft实况(?)视频，半程黑白，黑白部分有彩色片段
@@ -588,7 +589,7 @@ _该视频已被删除_
 
 - 整个世界貌似出了问题，出现了不该有的方块
 
-- `03:51` 主视角进入了洞里的一扇奇怪的门到了 lee 的房间
+- `03:51` 主视角进入了洞里的一扇奇怪的门到了 lee 的房间  
   <img src="img/2/v11.4.png" alt="" width="240px">
 
 ## [网站内容变更] 2025-08-12
@@ -596,3 +597,47 @@ _该视频已被删除_
 
 - 白色为隐藏文字，黄色为HTML注释  
   <img src="img/2/e5.png" alt="" width="240px">
+
+## 12. [视频] 吾辈乃邮差
+> **时间** 2025-08-13 09:55:58  
+> **BV**BV12AtfzYEmT  
+> **简介**
+> ```
+> aHR0cHM6Ly93d3cuZ29uZXRoaW5ncy5jbG91ZC9CVjFXTnRveldFQ0M
+> mc-080
+> ```
+
+- 发布视频时用户头像变成了这样  
+  <img src="img/2/v12.16.png" alt="" width="240px">
+
+- 简介通过base64可以解到一个网址 [`www.gonethings.cloud/BV1WNtozWECC`](https://www.gonethings.cloud/BV1WNtozWECC)  
+  <img src="img/2/v12.15.png" alt="" width="240px">  
+  (该BV号指向[11. \[视频\] record20190812\_145612\_174232](#11-视频-record20190812_145612_174232))
+
+- 网站下方有一个MC服务器地址(基岩版和Java 1.21.1可进入) `mc.chipcraft.top:30305`  
+  <img src="img/2/v12.14.png" alt="" width="240px">  
+  这是一个普通的生存服
+
+- 前往网站提示的坐标 `689, 130, -1286` (下界)  
+  <img src="img/2/v12.1.png" alt="" width="240px">  
+  一个奇怪的建筑(该建筑被进服的玩家破坏了一部分)
+
+- 大厅  
+  <img src="img/2/v12.2.png" alt="" width="240px">  
+  <img src="img/2/v12.8.png" alt="" width="240px">  
+  <img src="img/2/v12.9.png" alt="" width="240px">  
+  <img src="img/2/v12.10.png" alt="" width="240px">  
+  <img src="img/2/v12.11.png" alt="" width="240px">  
+  <img src="img/2/v12.12.png" alt="" width="240px">  
+  <img src="img/2/v12.13.png" alt="" width="240px">  
+
+- 左侧房间  
+  <img src="img/2/v12.3.png" alt="" width="240px">  
+  <img src="img/2/v12.4.png" alt="" width="240px">  
+  <img src="img/2/v12.5.png" alt="" width="240px">
+
+- 食堂  
+  <img src="img/2/v12.6.png" alt="" width="240px">  
+
+- 卧室  
+  <img src="img/2/v12.7.png" alt="" width="240px">  
